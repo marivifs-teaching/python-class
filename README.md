@@ -1,5 +1,6 @@
 # Python in Scientific Computing
 *lecture notes and IPython notebooks*
+## Modified from the original Mike Zingale's class
 
 These are the lecture notes and IPython notebooks used to teach the
 *Python for Scientific Computing* class at Stony Brook University.
