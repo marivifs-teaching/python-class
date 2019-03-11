@@ -33,10 +33,10 @@ A single-user interaction with git:
 * Create a file
 
   We'll create a file called `README` (use whatever editor you like,
-  I'll use emacs):
+  I'll use vi):
 
   ```
-  $ emacs -nw README
+  $ vi README
   ```
 
   Add some descriptive text to the file and save it.  At the moment,
