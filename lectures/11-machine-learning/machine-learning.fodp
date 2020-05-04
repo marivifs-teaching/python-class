@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:initial-creator>Michael Zingale</meta:initial-creator><meta:creation-date>2013-01-02T12:36:14</meta:creation-date><dc:date>2018-04-28T10:02:25.852007788</dc:date><meta:editing-duration>P1DT20H15M9S</meta:editing-duration><meta:editing-cycles>264</meta:editing-cycles><meta:generator>LibreOffice/5.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="326"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/></office:meta>
+ <office:meta><meta:initial-creator>Michael Zingale</meta:initial-creator><meta:creation-date>2013-01-02T12:36:14</meta:creation-date><dc:date>2020-05-04T14:06:48.771812776</dc:date><meta:editing-duration>P1DT20H28M11S</meta:editing-duration><meta:editing-cycles>265</meta:editing-cycles><meta:generator>LibreOffice/6.1.0.3$MacOSX_X86_64 LibreOffice_project/efb621ed25068d70781dc026f7e9c5187a4decd1</meta:generator><meta:document-statistic meta:object-count="330"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-313</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-7032</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">42403</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21793</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-3393</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-440</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">28969</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">28781</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -35,10 +35,10 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-336</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-8189</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">44518</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">21672</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-3393</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-440</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">28970</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">28782</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -56,10 +56,10 @@
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="BitmapTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sob</config:config-item>
+   <config:config-item config:name="BitmapTableURL" config:type="string">$(inst)/Resources/palette%3B$(user)/config/standard.sob</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="ColorTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soc</config:config-item>
-   <config:config-item config:name="DashTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sod</config:config-item>
+   <config:config-item config:name="ColorTableURL" config:type="string">$(inst)/Resources/palette%3B$(user)/config/standard.soc</config:config-item>
+   <config:config-item config:name="DashTableURL" config:type="string">$(inst)/Resources/palette%3B$(user)/config/standard.sod</config:config-item>
    <config:config-item config:name="DefaultTabStop" config:type="int">1270</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
@@ -71,9 +71,9 @@
      <config:config-item config:name="EndLine" config:type="string"/>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
-   <config:config-item config:name="GradientTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sog</config:config-item>
+   <config:config-item config:name="GradientTableURL" config:type="string">$(inst)/Resources/palette%3B$(user)/config/standard.sog</config:config-item>
    <config:config-item config:name="HandoutsHorizontal" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="HatchTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soh</config:config-item>
+   <config:config-item config:name="HatchTableURL" config:type="string">$(inst)/Resources/palette%3B$(user)/config/standard.soh</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
@@ -88,14 +88,15 @@
    <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LineEndTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soe</config:config-item>
+   <config:config-item config:name="LineEndTableURL" config:type="string">$(inst)/Resources/palette%3B$(user)/config/standard.soe</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">hp</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">pQH+/2hwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpocAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9aHAKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgBEdXBsZXg6RHVwbGV4Tm9UdW1ibGUAABIAQ09NUEFUX0RVUExFWF9NT0RFFABEdXBsZXhNb2RlOjpMb25nRWRnZQ==</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Brother HL-L2350DW series</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">5wD+/0Jyb3RoZXIgSEwtTDIzNTBEVyBzZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQnJvdGhlciBITC1MMjM1MERXIHNlcmllcy1BaXJQcgAWAAQABAAAAAAAAAAIAFZUAAAkbQAAAAAAABIAQ09NUEFUX0RVUExFWF9NT0RFEwBEdXBsZXhNb2RlOjpVbmtub3du</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
@@ -110,23 +111,29 @@
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-adornments="Regular" style:font-charset="x-symbol"/>
-  <style:font-face style:name="StarBats" svg:font-family="StarBats" style:font-adornments="Regular" style:font-charset="x-symbol"/>
   <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol" style:font-adornments="Regular" style:font-charset="x-symbol"/>
   <style:font-face style:name="Carlito2" svg:font-family="Carlito" style:font-adornments="Regular" style:font-family-generic="swiss"/>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="swiss"/>
   <style:font-face style:name="Inconsolata" svg:font-family="Inconsolata" style:font-pitch="fixed"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Carlito" svg:font-family="Carlito" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Carlito1" svg:font-family="Carlito" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans1" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans2" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="PingFang SC" svg:font-family="&apos;PingFang SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="WenQuanYi Zen Hei Sharp" svg:font-family="&apos;WenQuanYi Zen Hei Sharp&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
+  <draw:gradient draw:name="Filled_20_Blue" draw:display-name="Filled Blue" draw:style="linear" draw:start-color="#729fcf" draw:end-color="#355269" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="300" draw:border="0%"/>
+  <draw:gradient draw:name="Filled_20_Green" draw:display-name="Filled Green" draw:style="linear" draw:start-color="#77bc65" draw:end-color="#127622" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="300" draw:border="0%"/>
+  <draw:gradient draw:name="Filled_20_Red" draw:display-name="Filled Red" draw:style="linear" draw:start-color="#ff6d6d" draw:end-color="#c9211e" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="300" draw:border="0%"/>
+  <draw:gradient draw:name="Filled_20_Yellow" draw:display-name="Filled Yellow" draw:style="linear" draw:start-color="#ffde59" draw:end-color="#b47804" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="300" draw:border="0%"/>
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
   <draw:marker draw:name="Short_20_line_20_Arrow" draw:display-name="Short line Arrow" svg:viewBox="0 0 3000 3000" svg:d="M1500 0l1500 2789v211h-114l-1286-2392v2392h-200v-2392l-1286 2392h-114v-211z"/>
   <draw:stroke-dash draw:name="Dashed_20__28_var_29__20_1" draw:display-name="Dashed (var) 1" draw:style="rect" draw:dots1="1" draw:dots1-length="0.02cm" draw:dots2="1" draw:dots2-length="0.02cm" draw:distance="0.02cm"/>
@@ -185,12 +192,6 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Carlito1" fo:font-family="Carlito" style:font-style-name="Regular" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="WenQuanYi Zen Hei Sharp" style:font-family-asian="&apos;WenQuanYi Zen Hei Sharp&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="objectwitharrow" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.15cm" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.7cm" draw:marker-start-center="true" draw:marker-end-width="0.3cm"/>
-  </style:style>
-  <style:style style:name="objectwithshadow" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:shadow="visible" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080"/>
-  </style:style>
   <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-color="#000000" draw:fill="none"/>
   </style:style>
@@ -199,6 +200,65 @@
   </style:style>
   <style:style style:name="text" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="title" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:text-properties fo:font-size="44pt"/>
+  </style:style>
+  <style:style style:name="headline" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+   <style:text-properties fo:font-size="24pt"/>
+  </style:style>
+  <style:style style:name="measure" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:fill="none" draw:show-unit="true"/>
+   <style:text-properties fo:font-size="12pt"/>
+  </style:style>
+  <style:style style:name="Filled" style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#000000" draw:fill="solid" draw:fill-color="#ffffff"/>
+   <style:text-properties style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Filled_20_Blue" style:display-name="Filled Blue" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Filled_20_Blue"/>
+   <style:text-properties fo:color="#ffffff" style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Filled_20_Green" style:display-name="Filled Green" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Filled_20_Green"/>
+   <style:text-properties fo:color="#ffffff" style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Filled_20_Red" style:display-name="Filled Red" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Filled_20_Red"/>
+   <style:text-properties fo:color="#ffffff" style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Filled_20_Yellow" style:display-name="Filled Yellow" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Filled_20_Yellow"/>
+   <style:text-properties fo:color="#ffffff" style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Outlined" style:family="graphic">
+   <style:graphic-properties svg:stroke-width="0.081cm" svg:stroke-color="#000000" draw:fill="none"/>
+   <style:text-properties style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Blue" style:display-name="Outlined Blue" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.081cm" svg:stroke-color="#355269"/>
+   <style:text-properties fo:color="#355269" style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Green" style:display-name="Outlined Green" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.081cm" svg:stroke-color="#127622"/>
+   <style:text-properties fo:color="#127622" style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Red" style:display-name="Outlined Red" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.081cm" svg:stroke-color="#c9211e"/>
+   <style:text-properties fo:color="#c9211e" style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Yellow" style:display-name="Outlined Yellow" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.081cm" svg:stroke-color="#b47804"/>
+   <style:text-properties fo:color="#b47804" style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="objectwitharrow" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.15cm" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.7cm" draw:marker-start-center="true" draw:marker-end-width="0.3cm"/>
+  </style:style>
+  <style:style style:name="objectwithshadow" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:shadow="visible" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080"/>
   </style:style>
   <style:style style:name="textbody" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
@@ -212,10 +272,6 @@
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0.6cm"/>
   </style:style>
-  <style:style style:name="title" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
-   <style:text-properties fo:font-size="44pt"/>
-  </style:style>
   <style:style style:name="title1" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#008080" draw:shadow="visible" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080"/>
    <style:paragraph-properties fo:text-align="center"/>
@@ -226,11 +282,6 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0.2cm" fo:margin-top="0.1cm" fo:margin-bottom="0.1cm" fo:text-align="center" fo:text-indent="0cm"/>
    <style:text-properties fo:font-size="36pt"/>
   </style:style>
-  <style:style style:name="headline" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
-   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
-   <style:text-properties fo:font-size="24pt"/>
-  </style:style>
   <style:style style:name="headline1" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
@@ -240,10 +291,6 @@
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
    <style:text-properties fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold"/>
-  </style:style>
-  <style:style style:name="measure" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:fill="none" draw:show-unit="true"/>
-   <style:text-properties fo:font-size="12pt"/>
   </style:style>
   <style:style style:name="Normal" style:family="graphic">
    <style:paragraph-properties style:text-autospace="none"/>
@@ -308,6 +355,9 @@
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="WenQuanYi Zen Hei Sharp" style:font-family-asian="&apos;WenQuanYi Zen Hei Sharp&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line_5f_1" style:display-name="Object with no fill and no line_1" style:family="graphic" style:parent-style-name="Default_5f_1">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
   </style:style>
   <style:style style:name="Default-background" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
@@ -742,144 +792,132 @@
    <style:text-properties fo:font-size="24pt" fo:font-style="normal" style:font-size-asian="24pt" style:font-style-asian="normal" style:font-size-complex="24pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties style:font-name="Carlito" style:font-name-asian="StarBats" style:font-name-complex="StarBats"/>
-  </style:style>
-  <style:style style:name="T25" style:family="text">
-   <style:text-properties style:text-position="50% 58%" style:font-name="Carlito" style:font-name-asian="StarBats" style:font-name-complex="StarBats"/>
-  </style:style>
-  <style:style style:name="T26" style:family="text">
-   <style:text-properties style:text-position="0% 100%" style:font-name="Carlito" style:font-name-asian="StarBats" style:font-name-complex="StarBats"/>
-  </style:style>
-  <style:style style:name="T27" style:family="text">
    <style:text-properties style:text-position="-33% 58%"/>
   </style:style>
-  <style:style style:name="T28" style:family="text">
+  <style:style style:name="T25" style:family="text">
    <style:text-properties style:font-name="Carlito2" style:font-name-asian="Carlito2" style:font-name-complex="Carlito2"/>
   </style:style>
-  <style:style style:name="T29" style:family="text">
+  <style:style style:name="T26" style:family="text">
    <style:text-properties style:font-name="Carlito" style:font-name-asian="Carlito2" style:font-name-complex="Carlito2"/>
   </style:style>
-  <style:style style:name="T30" style:family="text">
+  <style:style style:name="T27" style:family="text">
    <style:text-properties fo:color="#000000"/>
   </style:style>
-  <style:style style:name="T31" style:family="text">
+  <style:style style:name="T28" style:family="text">
    <style:text-properties fo:color="#000000" style:font-name="Carlito2" style:font-name-asian="Carlito2" style:font-name-complex="Carlito2"/>
   </style:style>
-  <style:style style:name="T32" style:family="text">
+  <style:style style:name="T29" style:family="text">
    <style:text-properties fo:color="#0066b3" style:font-name="Carlito2" fo:font-weight="normal" style:font-name-asian="Carlito2" style:font-weight-asian="normal" style:font-name-complex="Carlito2" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T33" style:family="text">
+  <style:style style:name="T30" style:family="text">
    <style:text-properties fo:color="#000000" style:font-name="Carlito2" fo:font-weight="normal" style:font-name-asian="Carlito2" style:font-weight-asian="normal" style:font-name-complex="Carlito2" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T34" style:family="text">
+  <style:style style:name="T31" style:family="text">
    <style:text-properties style:font-name="Carlito2" fo:font-weight="bold" style:font-name-asian="Carlito2" style:font-weight-asian="bold" style:font-name-complex="Carlito2" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T35" style:family="text">
+  <style:style style:name="T32" style:family="text">
    <style:text-properties style:font-name="Carlito2" fo:font-weight="normal" style:font-name-asian="Carlito2" style:font-weight-asian="normal" style:font-name-complex="Carlito2" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T36" style:family="text">
+  <style:style style:name="T33" style:family="text">
    <style:text-properties style:text-position="-33% 58%" style:font-name="Carlito" style:font-name-asian="Carlito2" style:font-name-complex="Carlito2"/>
   </style:style>
-  <style:style style:name="T37" style:family="text">
+  <style:style style:name="T34" style:family="text">
    <style:text-properties fo:color="#0066b3" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
-  <style:style style:name="T38" style:family="text">
+  <style:style style:name="T35" style:family="text">
    <style:text-properties style:text-position="33% 58%" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T39" style:family="text">
+  <style:style style:name="T36" style:family="text">
    <style:text-properties fo:color="#0066b3" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T40" style:family="text">
+  <style:style style:name="T37" style:family="text">
    <style:text-properties fo:color="#0066b3" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T41" style:family="text">
+  <style:style style:name="T38" style:family="text">
    <style:text-properties style:text-position="-33% 58%" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T42" style:family="text">
+  <style:style style:name="T39" style:family="text">
    <style:text-properties fo:color="#0066b3" fo:font-style="italic" fo:font-weight="normal" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T43" style:family="text">
+  <style:style style:name="T40" style:family="text">
    <style:text-properties fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T44" style:family="text">
+  <style:style style:name="T41" style:family="text">
    <style:text-properties fo:font-style="italic" fo:font-weight="normal" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T45" style:family="text">
+  <style:style style:name="T42" style:family="text">
    <style:text-properties style:font-name="Carlito2" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Carlito2" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Carlito2" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T46" style:family="text">
+  <style:style style:name="T43" style:family="text">
    <style:text-properties fo:color="#333333" style:font-name="Inconsolata" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="T47" style:family="text">
+  <style:style style:name="T44" style:family="text">
    <style:text-properties fo:color="#ed1c24" style:font-name="Carlito2" fo:font-weight="normal" style:font-name-asian="Carlito2" style:font-weight-asian="normal" style:font-name-complex="Carlito2" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T48" style:family="text">
+  <style:style style:name="T45" style:family="text">
    <style:text-properties fo:color="#0066b3" style:font-name="Carlito2" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="Carlito2" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Carlito2" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T49" style:family="text">
+  <style:style style:name="T46" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-weight="normal" style:font-name-asian="StarSymbol" style:font-weight-asian="normal" style:font-name-complex="StarSymbol" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T50" style:family="text">
+  <style:style style:name="T47" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-weight="bold" style:font-name-asian="StarSymbol" style:font-weight-asian="bold" style:font-name-complex="StarSymbol" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T51" style:family="text">
+  <style:style style:name="T48" style:family="text">
    <style:text-properties fo:color="#0066b3" style:font-name="Carlito" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
-  <style:style style:name="T52" style:family="text">
+  <style:style style:name="T49" style:family="text">
    <style:text-properties fo:color="#0066b3" style:font-name="Carlito" fo:font-size="20pt" fo:font-weight="bold" style:font-size-asian="20pt" style:font-weight-asian="bold" style:font-size-complex="20pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T53" style:family="text">
+  <style:style style:name="T50" style:family="text">
    <style:text-properties fo:color="#0066b3" style:font-name="Carlito" fo:font-size="20pt" fo:font-weight="bold" style:font-name-asian="OpenSymbol" style:font-size-asian="20pt" style:font-weight-asian="bold" style:font-name-complex="OpenSymbol" style:font-size-complex="20pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T54" style:family="text">
+  <style:style style:name="T51" style:family="text">
    <style:text-properties fo:color="#0066b3" style:font-name="Carlito" fo:font-size="20pt" fo:font-weight="normal" style:font-size-asian="20pt" style:font-weight-asian="normal" style:font-size-complex="20pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T55" style:family="text">
+  <style:style style:name="T52" style:family="text">
    <style:text-properties fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T56" style:family="text">
+  <style:style style:name="T53" style:family="text">
    <style:text-properties fo:color="#0066b3" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T57" style:family="text">
+  <style:style style:name="T54" style:family="text">
    <style:text-properties fo:color="#000000" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T58" style:family="text">
+  <style:style style:name="T55" style:family="text">
    <style:text-properties style:font-name="Inconsolata" fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T59" style:family="text">
+  <style:style style:name="T56" style:family="text">
    <style:text-properties style:font-name="Inconsolata" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T60" style:family="text">
+  <style:style style:name="T57" style:family="text">
    <style:text-properties style:font-name="Inconsolata"/>
   </style:style>
-  <style:style style:name="T61" style:family="text">
+  <style:style style:name="T58" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T62" style:family="text">
+  <style:style style:name="T59" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T63" style:family="text">
+  <style:style style:name="T60" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="StarSymbol" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="StarSymbol" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T64" style:family="text">
+  <style:style style:name="T61" style:family="text">
    <style:text-properties style:text-position="50% 58%" style:font-name="Carlito" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="StarSymbol" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="StarSymbol" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T65" style:family="text">
+  <style:style style:name="T62" style:family="text">
    <style:text-properties fo:color="#0066b3" style:font-name="Carlito" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="StarSymbol" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="StarSymbol" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T66" style:family="text">
+  <style:style style:name="T63" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="StarSymbol" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="StarSymbol" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T67" style:family="text">
+  <style:style style:name="T64" style:family="text">
    <style:text-properties fo:color="#0066b3" style:font-name="Carlito" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="StarSymbol" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="StarSymbol" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:color="#0066b3" style:font-name="Carlito" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="StarBats" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="StarBats" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T69" style:family="text">
+  <style:style style:name="T65" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="OpenSymbol" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="OpenSymbol" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T70" style:family="text">
+  <style:style style:name="T66" style:family="text">
    <style:text-properties fo:color="#0000ff"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -1068,26 +1106,27 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="9.294cm" svg:height="6.97cm" svg:x="11.295cm" svg:y="18.531cm"/>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="0cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="26.543cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="26.543cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
   </style:handout-master>
   <style:master-page style:name="Default" style:page-layout-name="PM1" draw:style-name="dp1">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:custom-shape presentation:style-name="pr1" draw:text-style-name="P5" draw:layer="backgroundobjects" svg:width="28cm" svg:height="2.794cm" svg:x="0cm" svg:y="0cm">
     <text:p/>
     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
@@ -1190,20 +1229,21 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="0.767cm" svg:x="1.4cm" svg:y="19.812cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T2"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T2"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr2" draw:text-style-name="P7" draw:layer="backgroundobjects" svg:width="10.414cm" svg:height="0.767cm" svg:x="8.89cm" svg:y="20.212cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P6"><text:span text:style-name="T3">PHY 604: Computational Methods in Physics and Astrophysics II</text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P6"><text:span text:style-name="T3">PHY 604: Computational Methods in Physics and Astrophysics II</text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span><text:span text:style-name="T3"><presentation:footer/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="0.767cm" svg:x="20.076cm" svg:y="20.112cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T2"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T2"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Default-title" draw:layer="backgroundobjects" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Default-notes" draw:layer="backgroundobjects" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -1300,22 +1340,22 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr4" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="26.543cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr4" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="26.543cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>47</text:page-number></text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -1326,7 +1366,7 @@
    <draw:page draw:name="page1" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL1T0">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P8" draw:layer="layout" svg:width="27.991cm" svg:height="21.006cm" svg:x="0cm" svg:y="0cm" presentation:class="graphic" presentation:user-transformed="true">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABE4AAAM7CAYAAABUdNVwAAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAPYQAAD2EBqD+naQAAIABJREFUeJzsvVeXJMmR7/c395Apqqq17ukeYAaLWQDEBXcv
        L/nCc/id+RH4QOKS2AMsBrgYjOppraoqZSh350OkCJkZkaIqq8d+59T0ZKSHC3P3SDcLc3P6
@@ -5077,7 +5117,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.43cm" svg:height="12.243cm" svg:x="8.336cm" svg:y="7.823cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/4gxYSUNDX1BST0ZJTEUAAQEAAAxITGlubwIQAABtbnRy
        UkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAAAA
        9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -6699,7 +6739,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="10.502cm" svg:height="6.703cm" svg:x="8.667cm" svg:y="4.843cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABBIAAAKZBAMAAAD30RXUAAAAMFBMVEX///8AAAAyMjKYmJi6
        uroiIiJmZmbMzMwQEBBUVFR2dnbu7u6IiIhERETc3Nyqqqqr82aUAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAgAElEQVR4Ae29f4gs2XUmGPV+dr3qV+9Fd7/u15J/VDYsK2EaKjEMnrWwM3eb
@@ -7143,7 +7183,7 @@
 \end{alignat*}§png§600§FALSE§</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="4.454cm" svg:height="3.629cm" svg:x="11.761cm" svg:y="13.664cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAboAAAFoBAMAAADTLyOSAAAAMFBMVEX///8AAADu7u4iIiJ2
        dnbc3NzMzMwQEBC6urqqqqoyMjJmZmaYmJiIiIhUVFRERESdeiPCAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAXy0lEQVR4Ae1dXYhs2VU+Xberu/revt29pyZTekdnqqPJRBCny3vHgCaxi0Eh
@@ -7280,7 +7320,7 @@
    <draw:page draw:name="page7" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="12.7cm" svg:height="12.573cm" svg:x="15.24cm" svg:y="5.715cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAqYAAAKfCAYAAAC8Dgr6AAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+g
        vaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH4QsdCyA2kgSCDgAAABBjYU52AAAE
@@ -8312,7 +8352,7 @@
    <draw:page draw:name="page8" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="12.7cm" svg:height="12.573cm" svg:x="15.24cm" svg:y="5.715cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAqYAAAKfCAYAAAC8Dgr6AAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+g
        vaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH4QsdCyA2kgSCDgAAABBjYU52AAAE
@@ -9309,13 +9349,13 @@
         <text:p><text:span text:style-name="T23">Linear algebra problem:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p>Inputs: <text:span text:style-name="T9">x</text:span><text:span text:style-name="T10"> ∊</text:span><text:span text:style-name="T24"> ℝ</text:span><text:span text:style-name="T25">n</text:span></text:p>
+          <text:p>Inputs: <text:span text:style-name="T9">x</text:span><text:span text:style-name="T10"> ∊</text:span><text:span text:style-name="T14"> ℝ</text:span><text:span text:style-name="T15">n</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p>Outputs: <text:span text:style-name="T13">z</text:span><text:span text:style-name="T10"> ∊</text:span><text:span text:style-name="T24"> ℝ</text:span><text:span text:style-name="T25">m</text:span></text:p>
+          <text:p>Outputs: <text:span text:style-name="T13">z</text:span><text:span text:style-name="T10"> ∊</text:span><text:span text:style-name="T14"> ℝ</text:span><text:span text:style-name="T15">m</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p>Neutral network is a map, <text:span text:style-name="T24">ℝ</text:span><text:span text:style-name="T25">n </text:span>→<text:span text:style-name="T26"> ℝ</text:span><text:span text:style-name="T25">m</text:span> <text:s/>that can be expressed as a matrix, <text:span text:style-name="T13">A</text:span></text:p>
+          <text:p>Neutral network is a map, <text:span text:style-name="T14">ℝ</text:span><text:span text:style-name="T15">n </text:span>→<text:span text:style-name="T16"> ℝ</text:span><text:span text:style-name="T15">m</text:span> <text:s/>that can be expressed as a matrix, <text:span text:style-name="T13">A</text:span></text:p>
           <text:list>
            <text:list-item>
             <text:p><text:span text:style-name="T13">z</text:span><text:span text:style-name="T17"> = </text:span><text:span text:style-name="T13">Ax</text:span></text:p>
@@ -9369,7 +9409,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="7.63cm" svg:height="4.526cm" svg:x="10.281cm" svg:y="5.405cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAvUAAAHBCAMAAADen7SZAAAAS1BMVEX///8AAADc3Nx2dnZE
        REQQEBCIiIi6urqqqqrMzMwyMjLu7u4iIiKYmJhmZmZUVFQPDw8ICAi/v78NDQ0JCQmwsLAd
        HR2urq6jo6M1EQ+LAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4Ae19bYPyIK9mdfTW
@@ -9717,7 +9757,7 @@
    <draw:page draw:name="page11" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="16.256cm" svg:height="12.192cm" svg:x="11.684cm" svg:y="3.556cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3Xl4VOXdxvHvTCbJZIeELWwikU1kJ8iqQRRC
        RUBxqUrVarWFxqLY16JlqaBGqqVal4ZapFoFF1SURQoIsgUiO4osyhbCloSQPZNtzvvHJBNi
@@ -10856,16 +10896,16 @@
         <text:p/>
        </text:list-item>
        <text:list-item>
-        <text:p>Note, all outputs are scaled to be z<text:span text:style-name="T27">j</text:span> <text:span text:style-name="T10">∊ (0, 1)</text:span></text:p>
+        <text:p>Note, all outputs are scaled to be z<text:span text:style-name="T24">j</text:span> <text:span text:style-name="T10">∊ (0, 1)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T10">We’ll take </text:span><text:span text:style-name="T28">α</text:span><text:span text:style-name="T29"> = 1</text:span></text:p>
+        <text:p><text:span text:style-name="T10">We’ll take </text:span><text:span text:style-name="T25">α</text:span><text:span text:style-name="T26"> = 1</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="5.897cm" svg:height="1.764cm" svg:x="3.247cm" svg:y="8.872cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAkkAAACvBAMAAAAbLFexAAAAMFBMVEX///8AAADc3Nx2dnZE
        REQQEBCIiIi6urqqqqrMzMwyMjLu7u4iIiKYmJhmZmZUVFSMTLvPAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAOu0lEQVR4Ae1db2wcRxUfX+ycz3eO86idNsbQc0n401SiF0Q/kAr5EOFDKZW3
@@ -10963,37 +11003,37 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T30">There seem to be differing opinions on </text:span><text:span text:style-name="T31">α</text:span></text:p>
+        <text:p><text:span text:style-name="T27">There seem to be differing opinions on </text:span><text:span text:style-name="T28">α</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T32">Using α = 1 seems to work well—this is what we’ll do</text:span></text:p>
+          <text:p><text:span text:style-name="T29">Using α = 1 seems to work well—this is what we’ll do</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T33">Perhaps scale inputs to be in (0, 1]</text:span></text:p>
+            <text:p><text:span text:style-name="T30">Perhaps scale inputs to be in (0, 1]</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T33">Note, we don’t want inputs to be 0, because they cancel out weights</text:span></text:p>
+            <text:p><text:span text:style-name="T30">Note, we don’t want inputs to be 0, because they cancel out weights</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T28">Franklin: t</text:span><text:span text:style-name="T10">here is a narrow range of nonlinearity—pick </text:span><text:span text:style-name="T28">α</text:span><text:span text:style-name="T29"> so that our inputs fall in that range</text:span></text:p>
+          <text:p><text:span text:style-name="T25">Franklin: t</text:span><text:span text:style-name="T10">here is a narrow range of nonlinearity—pick </text:span><text:span text:style-name="T25">α</text:span><text:span text:style-name="T26"> so that our inputs fall in that range</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T28">Elements of </text:span><text:span text:style-name="T34">A</text:span><text:span text:style-name="T28"> are O(1)</text:span></text:p>
+            <text:p><text:span text:style-name="T25">Elements of </text:span><text:span text:style-name="T31">A</text:span><text:span text:style-name="T25"> are O(1)</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T35">p = </text:span><text:span text:style-name="T34">A x</text:span><text:span text:style-name="T35"> is O(n max{|</text:span><text:span text:style-name="T34">x</text:span><text:span text:style-name="T35">|})</text:span></text:p>
+            <text:p><text:span text:style-name="T32">p = </text:span><text:span text:style-name="T31">A x</text:span><text:span text:style-name="T32"> is O(n max{|</text:span><text:span text:style-name="T31">x</text:span><text:span text:style-name="T32">|})</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T35">Choose:</text:span></text:p>
+            <text:p><text:span text:style-name="T32">Choose:</text:span></text:p>
            </text:list-item>
           </text:list>
-          <text:p><text:span text:style-name="T35"/></text:p>
-          <text:p><text:span text:style-name="T35"/></text:p>
+          <text:p><text:span text:style-name="T32"/></text:p>
+          <text:p><text:span text:style-name="T32"/></text:p>
           <text:list>
            <text:list-header>
-            <text:p><text:span text:style-name="T35"/></text:p>
+            <text:p><text:span text:style-name="T32"/></text:p>
            </text:list-header>
           </text:list>
          </text:list-item>
@@ -11003,7 +11043,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="5.998cm" svg:height="1.906cm" svg:x="11.214cm" svg:y="13.724cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlMAAAC9BAMAAABlvuUAAAAAMFBMVEX///8AAADu7u6IiIhU
        VFQiIiIQEBCYmJiqqqpERETc3NwyMjJmZmZ2dnbMzMy6urqKZ7CqAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAR90lEQVR4Ae2de4wkRR3Ha+ce+7rbvYLbuTtOzlmR8wyvnQAmYNAdiJpIiNcG
@@ -11124,7 +11164,7 @@
           <text:p/>
           <text:list>
            <text:list-item>
-            <text:p>here, <text:span text:style-name="T28">Δ</text:span><text:span text:style-name="T29">x is the largest possible range of x</text:span><text:span text:style-name="T36">i</text:span><text:span text:style-name="T29"> in the inputs</text:span></text:p>
+            <text:p>here, <text:span text:style-name="T25">Δ</text:span><text:span text:style-name="T26">x is the largest possible range of x</text:span><text:span text:style-name="T33">i</text:span><text:span text:style-name="T26"> in the inputs</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
@@ -11134,7 +11174,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="9.264cm" svg:height="1.704cm" svg:x="9.151cm" svg:y="8.953cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA5cAAACpBAMAAABNI9SWAAAAMFBMVEX///8AAADMzMyIiIhU
        VFRmZmaYmJju7u52dnbc3NwiIiK6uroQEBAyMjJERESqqqoDmRUVAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAXiklEQVR4Ae1dbWws11mea19779q91z7k5gN3fe/6B6USKHil/Egqfnj5QaKK
@@ -11258,7 +11298,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr7" draw:text-style-name="P12" draw:layer="layout" svg:width="15.494cm" svg:height="2.626cm" svg:x="11.684cm" svg:y="18.034cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T37">Actually, (0, 1] works fine—we just need to avoid a 0, since that cancels out weights in </text:span><text:span text:style-name="T37">the matrices </text:span></text:p>
+      <text:p><text:span text:style-name="T34">Actually, (0, 1] works fine—we just need to avoid a 0, since that cancels out weights in the matrices </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -11282,7 +11322,7 @@
         <text:p>Basic operation</text:p>
         <text:list>
          <text:list-item>
-          <text:p>Train the model with known input/output to get all A<text:span text:style-name="T27">ij</text:span></text:p>
+          <text:p>Train the model with known input/output to get all A<text:span text:style-name="T24">ij</text:span></text:p>
          </text:list-item>
          <text:list-item>
           <text:p>Use <text:span text:style-name="T13">z</text:span><text:span text:style-name="T17"> = g(</text:span><text:span text:style-name="T13">A x</text:span><text:span text:style-name="T17">) to get output for a new input </text:span><text:span text:style-name="T13">x</text:span></text:p>
@@ -11293,15 +11333,15 @@
         <text:p><text:span text:style-name="T17">Training:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T17">We have T pairs (</text:span><text:span text:style-name="T13">x</text:span><text:span text:style-name="T38">k</text:span><text:span text:style-name="T17">, </text:span><text:span text:style-name="T13">y</text:span><text:span text:style-name="T38">k</text:span><text:span text:style-name="T17">) for k = 1, …, T</text:span></text:p>
+          <text:p><text:span text:style-name="T17">We have T pairs (</text:span><text:span text:style-name="T13">x</text:span><text:span text:style-name="T35">k</text:span><text:span text:style-name="T17">, </text:span><text:span text:style-name="T13">y</text:span><text:span text:style-name="T35">k</text:span><text:span text:style-name="T17">) for k = 1, …, T</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T39">Important: remember that our </text:span><text:span text:style-name="T40">y</text:span><text:span text:style-name="T39">’s have to be scaled to be in (0, 1), so they are in the same range that our function g(p) maps to</text:span></text:p>
+            <text:p><text:span text:style-name="T36">Important: remember that our </text:span><text:span text:style-name="T37">y</text:span><text:span text:style-name="T36">’s have to be scaled to be in (0, 1), so they are in the same range that our function g(p) maps to</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T17">We require that g(</text:span><text:span text:style-name="T13">A x</text:span><text:span text:style-name="T38">k</text:span><text:span text:style-name="T17">) = </text:span><text:span text:style-name="T13">y</text:span><text:span text:style-name="T38">k</text:span><text:span text:style-name="T17"> for all k</text:span></text:p>
+          <text:p><text:span text:style-name="T17">We require that g(</text:span><text:span text:style-name="T13">A x</text:span><text:span text:style-name="T35">k</text:span><text:span text:style-name="T17">) = </text:span><text:span text:style-name="T13">y</text:span><text:span text:style-name="T35">k</text:span><text:span text:style-name="T17"> for all k</text:span></text:p>
           <text:list>
            <text:list-item>
             <text:p><text:span text:style-name="T17">Recall, that g(p) is a scalar function that works element-by-element:</text:span></text:p>
@@ -11315,7 +11355,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="12.238cm" svg:height="3.024cm" svg:x="7.87cm" svg:y="14.766cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABL4AAAEsCAMAAAD6qorRAAAAP1BMVEX///8AAACqqqpEREQi
        IiJmZmbu7u7c3NwQEBC6urqIiIh2dnaYmJjMzMwyMjJUVFQkJCS/v7+wsLChoaHOzs6z9THF
        AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4Ae1d6WLzoI5N2nxp0jbtzL3z/s86IBZj
@@ -11624,7 +11664,7 @@
             <text:p><text:span text:style-name="T17">This can be expressed as a minimization problem, where we alter the matrix elements to achieve this agreement</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T17">There may not be a unique set of A</text:span><text:span text:style-name="T41">ij</text:span><text:span text:style-name="T17">, so we will loop randomly over all training data multiple times to optimize </text:span><text:span text:style-name="T13">A</text:span></text:p>
+            <text:p><text:span text:style-name="T17">There may not be a unique set of A</text:span><text:span text:style-name="T38">ij</text:span><text:span text:style-name="T17">, so we will loop randomly over all training data multiple times to optimize </text:span><text:span text:style-name="T13">A</text:span></text:p>
             <text:p><text:span text:style-name="T17"/></text:p>
             <text:p><text:span text:style-name="T17"/></text:p>
             <text:list>
@@ -11638,10 +11678,10 @@
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T17">The function we minimize is called the </text:span><text:span text:style-name="T42">cost function</text:span></text:p>
+        <text:p><text:span text:style-name="T17">The function we minimize is called the </text:span><text:span text:style-name="T39">cost function</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">There are other choices than the square of the error</text:span></text:p>
+          <text:p><text:span text:style-name="T40">There are other choices than the square of the error</text:span></text:p>
           <text:p><text:span text:style-name="T13"/></text:p>
          </text:list-item>
         </text:list>
@@ -11650,7 +11690,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="9.274cm" svg:height="1.008cm" svg:x="9.712cm" svg:y="10.164cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA5gAAABkBAMAAAARXoJxAAAAMFBMVEX///8AAACYmJhEREQi
        IiKIiIgQEBBmZmZ2dnbu7u7c3NxUVFTMzMwyMjKqqqq6urqsN1INAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAY+0lEQVR4Ae09bYhk2VWvv7t6qnvm7lRq1qzjVhEQIgpdYBZWifQj44oJwa6w
@@ -11799,26 +11839,26 @@
         <text:p><text:span text:style-name="T17">Minimization</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T17">A common technique for minimization is </text:span><text:span text:style-name="T42">gradient descent</text:span><text:span text:style-name="T17"> (sometimes called steepest descent)</text:span></text:p>
+          <text:p><text:span text:style-name="T17">A common technique for minimization is </text:span><text:span text:style-name="T39">gradient descent</text:span><text:span text:style-name="T17"> (sometimes called steepest descent)</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T17">This looks at the local derivative of the function f with respect to the parameters A</text:span><text:span text:style-name="T41">ij</text:span><text:span text:style-name="T17"> and moves a small distance </text:span><text:span text:style-name="T44">downhill</text:span><text:span text:style-name="T43">, and iterates…</text:span></text:p>
+            <text:p><text:span text:style-name="T17">This looks at the local derivative of the function f with respect to the parameters A</text:span><text:span text:style-name="T38">ij</text:span><text:span text:style-name="T17"> and moves a small distance </text:span><text:span text:style-name="T41">downhill</text:span><text:span text:style-name="T40">, and iterates…</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">We’ll also compare to an external library for minimization</text:span></text:p>
+          <text:p><text:span text:style-name="T40">We’ll also compare to an external library for minimization</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Caveats</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Caveats</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">When you minimize with one set of training data, there is no guarantee that you are still minimized with respect to the previous sets</text:span></text:p>
+          <text:p><text:span text:style-name="T40">When you minimize with one set of training data, there is no guarantee that you are still minimized with respect to the previous sets</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">In practice, you feed the training data multiple times, in random order, to the minimizer—each pass is called an </text:span><text:span text:style-name="T42">epoch</text:span></text:p>
+          <text:p><text:span text:style-name="T40">In practice, you feed the training data multiple times, in random order, to the minimizer—each pass is called an </text:span><text:span text:style-name="T39">epoch</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -11846,31 +11886,31 @@
         <text:p><text:span text:style-name="T17">Steepest descent minimization </text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T17">Start at a point </text:span><text:span text:style-name="T13">x</text:span><text:span text:style-name="T41">0</text:span><text:span text:style-name="T17"> and evaluate the gradient</text:span></text:p>
+          <text:p><text:span text:style-name="T17">Start at a point </text:span><text:span text:style-name="T13">x</text:span><text:span text:style-name="T38">0</text:span><text:span text:style-name="T17"> and evaluate the gradient</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T17">Move </text:span><text:span text:style-name="T44">downhill</text:span><text:span text:style-name="T43"> by following the gradient by some amount </text:span><text:span text:style-name="T45">η</text:span></text:p>
+          <text:p><text:span text:style-name="T17">Move </text:span><text:span text:style-name="T41">downhill</text:span><text:span text:style-name="T40"> by following the gradient by some amount </text:span><text:span text:style-name="T42">η</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T45">Correct our initial guess and iterate</text:span></text:p>
-          <text:p><text:span text:style-name="T45"/></text:p>
-          <text:p><text:span text:style-name="T45"/></text:p>
-         </text:list-item>
-        </text:list>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T45">Need to choose the amount to move each iteration</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T45">Sometimes we instead define a unit vector in the direction of the local gradient, and then η represents the distance to travel in that direction</text:span></text:p>
+          <text:p><text:span text:style-name="T42">Correct our initial guess and iterate</text:span></text:p>
+          <text:p><text:span text:style-name="T42"/></text:p>
+          <text:p><text:span text:style-name="T42"/></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T45">You can think about this as what happens if you put a marble on a surface—it rolls to a minimum</text:span></text:p>
+        <text:p><text:span text:style-name="T42">Need to choose the amount to move each iteration</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T45">May not be the global minimum—we can get stuck in a local minimum</text:span></text:p>
+          <text:p><text:span text:style-name="T42">Sometimes we instead define a unit vector in the direction of the local gradient, and then η represents the distance to travel in that direction</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T42">You can think about this as what happens if you put a marble on a surface—it rolls to a minimum</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T42">May not be the global minimum—we can get stuck in a local minimum</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -11878,7 +11918,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="4.889cm" svg:height="1.764cm" svg:x="11.538cm" svg:y="8.795cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAeUAAACvBAMAAAAxqtvvAAAAMFBMVEX///8AAAAyMjKYmJi6
        uroiIiJmZmbMzMwQEBBUVFR2dnbu7u6IiIhERETc3Nyqqqqr82aUAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAOLklEQVR4Ae1dXWhkSRW+PclMz0xnklRmeuyZndlNB8HdByX95IMI3YrivqVX
@@ -11965,7 +12005,7 @@
    <draw:page draw:name="page18" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="15.24cm" svg:height="11.43cm" svg:x="6.38cm" svg:y="8.89cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzsvX+sLVV9/v+e2efcC4pV4YKgUtQLSnrzkQSk
        KW1Rm0a5hPgL2hKsQUkxDUTlxx/61YZwLbX9A6qCqE2MBiVeYhpBSwrRagwlWhV/RPEEUS/q
@@ -13506,7 +13546,7 @@
           <text:p><text:span text:style-name="T17">This is a hard problem for optimization</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T17">Global minimum is at (</text:span><text:span text:style-name="T44">a</text:span><text:span text:style-name="T17">, </text:span><text:span text:style-name="T44">a</text:span><text:span text:style-name="T38">2</text:span><text:span text:style-name="T17">)</text:span></text:p>
+          <text:p><text:span text:style-name="T17">Global minimum is at (</text:span><text:span text:style-name="T41">a</text:span><text:span text:style-name="T17">, </text:span><text:span text:style-name="T41">a</text:span><text:span text:style-name="T35">2</text:span><text:span text:style-name="T17">)</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -13514,7 +13554,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.138cm" svg:height="0.948cm" svg:x="8.014cm" svg:y="4.903cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABFEAAABeBAMAAAAZLpZSAAAAMFBMVEX///8AAACYmJhEREQi
        IiKIiIgQEBBmZmZ2dnbu7u7c3NxUVFTMzMwyMjKqqqq6urqsN1INAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAavElEQVR4Ae09W4xsx1FnZ58z+7p9PR4TjJMZGYECP3eiYAgCtJMoRjGJ2BEo
@@ -13653,7 +13693,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr8" draw:text-style-name="P14" draw:layer="layout" svg:width="9.906cm" svg:height="1.403cm" svg:x="0.254cm" svg:y="20.066cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T46">code: steepest_descent.py</text:span></text:p>
+      <text:p><text:span text:style-name="T43">code: steepest_descent.py</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P11" draw:layer="layout" svg:width="5.08cm" svg:height="2.168cm" svg:x="22.352cm" svg:y="12.192cm">
@@ -13671,7 +13711,7 @@
    <draw:page draw:name="page19" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="16.256cm" svg:height="12.192cm" svg:x="5.867cm" svg:y="6.95cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzsvX+sLVV9/v+e2efcC4pV4YKgUtQLSnrzkQSk
        KW1Rm0a5hPgL2hKsQUkxDUTlxx/61YZwLbX9A6qCqE2MBiVeYhpBSwrRagwlWhV/RPEEUS/q
@@ -15473,13 +15513,13 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T17">Minimization with gradient descent is very sensitive to choice of </text:span><text:span text:style-name="T35">η</text:span></text:p>
+        <text:p><text:span text:style-name="T17">Minimization with gradient descent is very sensitive to choice of </text:span><text:span text:style-name="T32">η</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T35">Too large and you may shoot off far from the minimum</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Too large and you may shoot off far from the minimum</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T35">Too small and you do a lot of extra work</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Too small and you do a lot of extra work</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -15488,7 +15528,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr8" draw:text-style-name="P14" draw:layer="layout" svg:width="9.906cm" svg:height="1.403cm" svg:x="0.254cm" svg:y="20.067cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T46">code: steepest_descent.py</text:span></text:p>
+      <text:p><text:span text:style-name="T43">code: steepest_descent.py</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -15513,7 +15553,7 @@
         <text:p><text:span text:style-name="T17"/></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T17">Note, this definition is for a single training pair, (</text:span><text:span text:style-name="T13">x</text:span><text:span text:style-name="T38">k</text:span><text:span text:style-name="T17">, </text:span><text:span text:style-name="T13">y</text:span><text:span text:style-name="T38">k</text:span><text:span text:style-name="T17">)</text:span></text:p>
+          <text:p><text:span text:style-name="T17">Note, this definition is for a single training pair, (</text:span><text:span text:style-name="T13">x</text:span><text:span text:style-name="T35">k</text:span><text:span text:style-name="T17">, </text:span><text:span text:style-name="T13">y</text:span><text:span text:style-name="T35">k</text:span><text:span text:style-name="T17">)</text:span></text:p>
           <text:p><text:span text:style-name="T17"/></text:p>
          </text:list-item>
          <text:list-item>
@@ -15530,7 +15570,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="9.274cm" svg:height="1.008cm" svg:x="9.712cm" svg:y="4.864cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA5gAAABkBAMAAAARXoJxAAAAMFBMVEX///8AAACYmJhEREQi
        IiKIiIgQEBBmZmZ2dnbu7u7c3NxUVFTMzMwyMjKqqqq6urqsN1INAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAY+0lEQVR4Ae09bYhk2VWvv7t6qnvm7lRq1qzjVhEQIgpdYBZWifQj44oJwa6w
@@ -15659,7 +15699,7 @@
      <svg:desc>24§display§f(A_{ij}) = \| g({\bf A}{\bf x}^k) - {\bf y}^k \|^2§png§600§FALSE§</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="7.188cm" svg:height="1.975cm" svg:x="10.395cm" svg:y="10.391cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAskAAADEBAMAAACfGqEpAAAAMFBMVEX///8AAAB2dnYQEBDu
        7u6qqqqIiIhmZmbc3NxUVFREREQyMjK6uroiIiLMzMyYmJhTU47BAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAATcUlEQVR4Ae1dXYhkxRW+s9sz+z+zte260dnRGRTUlzDtD3kQcTqLCboo00gI
@@ -15762,7 +15802,7 @@
      <svg:desc>24§display§A_{pq} = A_{pq} - \eta \frac{\partial f}{\partial A_{pq}}§png§600§FALSE§</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="13.356cm" svg:height="3.194cm" svg:x="7.311cm" svg:y="13.78cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABS0AAAE9CAMAAADZMrfFAAAAP1BMVEX///8AAACYmJhEREQi
        IiKIiIgQEBBmZmZ2dnbu7u7c3NxUVFTMzMwyMjKqqqq6urqwsLChoaG/v78kJCTOzs4JbA6f
        AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4Ae1diZbjoI7NVulKqlJ5b2b+/1sHxBKw
@@ -16088,7 +16128,7 @@
      <svg:desc>24§display§f(A_{ij}) = \sum_{i=1}^m \left [ g \left ( \sum_{j=1}^{n} A_{ij} x_j \right ) - y_i \right ]^2§png§600§FALSE§</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="16.462cm" svg:height="0.977cm" svg:x="5.758cm" svg:y="7.59cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABmEAAABhBAMAAADcnRjTAAAAMFBMVEX///8AAACqqqru7u7c
        3NwyMjLMzMwQEBBmZma6urpEREQiIiKYmJhUVFSIiIh2dnb3ey/GAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAgAElEQVR4Ae1de4xkWVm/PdWP6Z6e6Tm7O1u4zUC3Ro2YDV0IrO66pJpk2eAm
@@ -16300,20 +16340,20 @@
           <text:p><text:span text:style-name="T17">We could then use steepest descent, looping over the matrix elements and doing the minimization on them one by one, iterating until we converge</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T47">Instead, we just do one push “downhill” following the gradient for a single training set and then move to the next.</text:span></text:p>
+            <text:p><text:span text:style-name="T44">Instead, we just do one push “downhill” following the gradient for a single training set and then move to the next.</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T35">η is often called the </text:span><text:span text:style-name="T48">learning rate</text:span></text:p>
+            <text:p><text:span text:style-name="T32">η is often called the </text:span><text:span text:style-name="T45">learning rate</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T35">Gradient descent is often used for neural nets because it only requires the first derivative </text:span></text:p>
+        <text:p><text:span text:style-name="T32">Gradient descent is often used for neural nets because it only requires the first derivative </text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T35">Newton’s method would require the second derivatives (Hessian matrix)</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Newton’s method would require the second derivatives (Hessian matrix)</text:span></text:p>
          </text:list-item>
         </text:list>
         <text:p><text:span text:style-name="T17"/></text:p>
@@ -16322,7 +16362,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.674cm" svg:height="1.975cm" svg:x="8.152cm" svg:y="5.291cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABIYAAADEBAMAAAAYHjdHAAAAMFBMVEX///8AAADc3Nzu7u7M
        zMxmZmYiIiIQEBC6urqIiIh2dnYyMjKqqqpUVFSYmJhERETd5QvgAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAgAElEQVR4Ae1dfYwkR3Xvm9nb273b27uy72awl8MzIGEFInlHIWc+xS5KsBBI
@@ -16525,29 +16565,29 @@
         <text:p><text:span text:style-name="T17">Recall, </text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T13">A</text:span><text:span text:style-name="T17"> is m </text:span><text:span text:style-name="T49">× n matrix</text:span></text:p>
+          <text:p><text:span text:style-name="T13">A</text:span><text:span text:style-name="T17"> is m </text:span><text:span text:style-name="T46">× n matrix</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T50">x</text:span><text:span text:style-name="T49"> is n × 1 vector</text:span></text:p>
+          <text:p><text:span text:style-name="T47">x</text:span><text:span text:style-name="T46"> is n × 1 vector</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T50">y</text:span><text:span text:style-name="T49"> (and hence </text:span><text:span text:style-name="T50">z</text:span><text:span text:style-name="T49">) is m × 1 vector</text:span></text:p>
+          <text:p><text:span text:style-name="T47">y</text:span><text:span text:style-name="T46"> (and hence </text:span><text:span text:style-name="T47">z</text:span><text:span text:style-name="T46">) is m × 1 vector</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T49">We can write our derivative as:</text:span></text:p>
-        <text:p><text:span text:style-name="T49"/></text:p>
-        <text:p><text:span text:style-name="T49"/></text:p>
+        <text:p><text:span text:style-name="T46">We can write our derivative as:</text:span></text:p>
+        <text:p><text:span text:style-name="T46"/></text:p>
+        <text:p><text:span text:style-name="T46"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T49">Then the correction to our matrix is:</text:span></text:p>
+        <text:p><text:span text:style-name="T46">Then the correction to our matrix is:</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="12.581cm" svg:height="2.51cm" svg:x="7.704cm" svg:y="9.997cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABOAAAAD5CAMAAAC587oCAAAAP1BMVEX///8AAADc3Nzu7u7M
        zMxmZmYiIiIQEBC6urqIiIh2dnYyMjKqqqpUVFSYmJhEREROTk5jY2MSEhInJycCAgJk5A9B
        AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4Ae1dh7brKg5NddpJMu/N/P+3DhJg04Rx
@@ -16796,7 +16836,7 @@
 \cdot \underbrace{{\bf x}^\intercal}_{1\times n}§png§600§FALSE§</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="13.306cm" svg:height="0.838cm" svg:x="7.203cm" svg:y="14.297cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABSgAAABTBAMAAABuYvQeAAAAMFBMVEX///8AAADMzMyYmJiq
        qqoQEBAiIiJ2dnbu7u4yMjK6urqIiIhERETc3NxmZmZUVFT4pBLMAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAaOUlEQVR4Ad09a4hk2Vm3H9Nd/Z4zu9WzY3Znq0hWFkNkyhhQothFdkVCDHvV
@@ -16932,7 +16972,7 @@
 \cdot {\bf x}^\intercal§png§600§FALSE§</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="5.141cm" svg:height="0.674cm" svg:x="11.522cm" svg:y="15.715cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAf4AAABDBAMAAACPYnoJAAAAMFBMVEX///8AAADMzMwyMjIi
        IiIQEBCqqqqIiIi6urpmZmZUVFTu7u6YmJhERETc3Nx2dnb2j7eCAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAG90lEQVR4Ae2bu3IcRRSGW2tJFl5ZdoOEbYxAKmcE1O4b7FLK8VRBBIGWgCKU
@@ -16977,7 +17017,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr10" draw:text-style-name="P15" draw:layer="layout" svg:width="5.588cm" svg:height="2.372cm" svg:x="21.898cm" svg:y="13.454cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T51">Here, </text:span><text:span text:style-name="T52">a </text:span><text:span text:style-name="T53">∘</text:span><text:span text:style-name="T52"> b</text:span><text:span text:style-name="T54"> is an element-wise product</text:span></text:p>
+      <text:p><text:span text:style-name="T48">Here, </text:span><text:span text:style-name="T49">a </text:span><text:span text:style-name="T50">∘</text:span><text:span text:style-name="T49"> b</text:span><text:span text:style-name="T51"> is an element-wise product</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -16998,28 +17038,28 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">A common choice for initializing </text:span><text:span text:style-name="T55">A</text:span><text:span text:style-name="T43"> is to set the elements to random numbers in [-1, 1]</text:span></text:p>
+        <text:p><text:span text:style-name="T40">A common choice for initializing </text:span><text:span text:style-name="T52">A</text:span><text:span text:style-name="T40"> is to set the elements to random numbers in [-1, 1]</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">It is suggested (see, e.g., Rashid) that </text:span><text:span text:style-name="T56">a better choice is initializing the elements to Gaussian normal random numbers with width</text:span></text:p>
-          <text:p><text:span text:style-name="T56"/></text:p>
-          <text:p><text:span text:style-name="T43"/></text:p>
+          <text:p><text:span text:style-name="T40">It is suggested (see, e.g., Rashid) that </text:span><text:span text:style-name="T53">a better choice is initializing the elements to Gaussian normal random numbers with width</text:span></text:p>
+          <text:p><text:span text:style-name="T53"/></text:p>
+          <text:p><text:span text:style-name="T40"/></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">This should be coupled with </text:span><text:span text:style-name="T45">α = 1</text:span></text:p>
+            <text:p><text:span text:style-name="T40">This should be coupled with </text:span><text:span text:style-name="T42">α = 1</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T57">The initialization sets the starting point in the minimization, so different realizations can converge to different (local) minima</text:span></text:p>
+        <text:p><text:span text:style-name="T54">The initialization sets the starting point in the minimization, so different realizations can converge to different (local) minima</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="2.914cm" svg:height="1.896cm" svg:x="12.635cm" svg:y="7.805cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAASEAAAC8BAMAAADFvAUBAAAAMFBMVEX///8AAAB2dnYQEBBU
        VFTMzMzc3NxEREQiIiK6urqqqqqIiIju7u6YmJhmZmYyMjJw1fUxAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAH6ElEQVR4Ae1cTWgkRRTubDKTv8kkz+y6WX82GQTPaYNXTe4rJIjI3mYO6jWD
@@ -17085,37 +17125,37 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Here’s a simple example</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Here’s a simple example</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Given an input vector of 10 numbers drawn from a sample, set the output to the last element of the input</text:span></text:p>
+          <text:p><text:span text:style-name="T40">Given an input vector of 10 numbers drawn from a sample, set the output to the last element of the input</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">Draw from: </text:span><text:span text:style-name="T58">[0.05, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 0.95</text:span><text:span text:style-name="T43">]</text:span></text:p>
+            <text:p><text:span text:style-name="T40">Draw from: </text:span><text:span text:style-name="T55">[0.05, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 0.95</text:span><text:span text:style-name="T40">]</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">Example input and output:</text:span></text:p>
+            <text:p><text:span text:style-name="T40">Example input and output:</text:span></text:p>
             <text:list>
              <text:list-item>
-              <text:p><text:span text:style-name="T43">Input: </text:span><text:span text:style-name="T59">[0.15, 0.35, 0.65, 0.45, 0.05, 0.15, 0.75, 0.35, 0.25, 0.85]</text:span></text:p>
+              <text:p><text:span text:style-name="T40">Input: </text:span><text:span text:style-name="T56">[0.15, 0.35, 0.65, 0.45, 0.05, 0.15, 0.75, 0.35, 0.25, 0.85]</text:span></text:p>
              </text:list-item>
              <text:list-item>
-              <text:p><text:span text:style-name="T43">Output: </text:span><text:span text:style-name="T59">[0.85]</text:span></text:p>
+              <text:p><text:span text:style-name="T40">Output: </text:span><text:span text:style-name="T56">[0.85]</text:span></text:p>
              </text:list-item>
             </text:list>
            </text:list-item>
           </text:list>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">We want to train a neural net on a bunch of input/output pairs and then see if it can predict the correct output given some new input vectors</text:span></text:p>
+          <text:p><text:span text:style-name="T40">We want to train a neural net on a bunch of input/output pairs and then see if it can predict the correct output given some new input vectors</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">This type of example seems to be a very common intro example</text:span></text:p>
+            <text:p><text:span text:style-name="T40">This type of example seems to be a very common intro example</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">We’ll restrict the output of the network to be the closest member of the set</text:span></text:p>
+          <text:p><text:span text:style-name="T40">We’ll restrict the output of the network to be the closest member of the set</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -17140,10 +17180,10 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">After training, our model does an okay job at recognizing the trained data</text:span></text:p>
+        <text:p><text:span text:style-name="T40">After training, our model does an okay job at recognizing the trained data</text:span></text:p>
         <text:list>
          <text:list-header>
-          <text:p><text:span text:style-name="T43"/></text:p>
+          <text:p><text:span text:style-name="T40"/></text:p>
          </text:list-header>
         </text:list>
        </text:list-item>
@@ -17151,7 +17191,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="19.05cm" svg:height="14.3cm" svg:x="4.445cm" svg:y="5.08cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3XucV9V97//3d24MAo5BIYJcBIJHJQFkUDTG
        oFaJvxrq5RBPTXKOlrZpIib2d+xJ4kMa4GEsaU5Ck9SfJ60WtU2tUUztg5iTEhI1CTpcpDKV
@@ -17656,9 +17696,9 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P14" draw:layer="layout" svg:width="11.684cm" svg:height="0.751cm" svg:x="0.254cm" svg:y="20.068cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P14" draw:layer="layout" svg:width="11.684cm" svg:height="0.818cm" svg:x="0.254cm" svg:y="20.068cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T46">code: last_num.py</text:span></text:p>
+      <text:p><text:span text:style-name="T43">code: last_num.py</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -17679,10 +17719,10 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">And about 45% success on data we’ve never seen before</text:span></text:p>
+        <text:p><text:span text:style-name="T40">And about 45% success on data we’ve never seen before</text:span></text:p>
         <text:list>
          <text:list-header>
-          <text:p><text:span text:style-name="T43"/></text:p>
+          <text:p><text:span text:style-name="T40"/></text:p>
          </text:list-header>
         </text:list>
        </text:list-item>
@@ -17690,7 +17730,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="19.05cm" svg:height="14.3cm" svg:x="4.445cm" svg:y="5.08cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3XuYFdWd7//P7t03Lg0GBUUBBSIh4IABBI0X
        MKMMvyEc1B8xY5ITEieTk0RnzIxzTHw0AcY4zslEJ8nkeJLRQXMzJkLGPGhOhpBoYogNAhFG
@@ -18215,13 +18255,13 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">The matrix </text:span><text:span text:style-name="T55">A</text:span><text:span text:style-name="T43"> has elements:</text:span></text:p>
-        <text:p><text:span text:style-name="T43"/></text:p>
-        <text:p><text:span text:style-name="T43"/></text:p>
+        <text:p><text:span text:style-name="T40">The matrix </text:span><text:span text:style-name="T52">A</text:span><text:span text:style-name="T40"> has elements:</text:span></text:p>
+        <text:p><text:span text:style-name="T40"/></text:p>
+        <text:p><text:span text:style-name="T40"/></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Notice that the last element is by far the largest—as expected</text:span></text:p>
-          <text:p><text:span text:style-name="T43"/></text:p>
+          <text:p><text:span text:style-name="T40">Notice that the last element is by far the largest—as expected</text:span></text:p>
+          <text:p><text:span text:style-name="T40"/></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -18230,8 +18270,8 @@
     </draw:frame>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P16" draw:layer="layout" svg:width="25.146cm" svg:height="3.302cm" svg:x="1.778cm" svg:y="4.996cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T60">[[-0.64781066 -0.5222319 <text:s/>-0.3895293 <text:s/>-0.56014527 -0.51573424</text:span></text:p>
-      <text:p><text:span text:style-name="T60"><text:s text:c="2"/></text:span><text:span text:style-name="T60">-0.7674345 <text:s/>-0.29920656 -0.48140874 -0.61986531 <text:s/>4.84708543]]</text:span></text:p>
+      <text:p><text:span text:style-name="T57">[[-0.64781066 -0.5222319 <text:s/>-0.3895293 <text:s/>-0.56014527 -0.51573424</text:span></text:p>
+      <text:p><text:span text:style-name="T57"><text:s text:c="2"/></text:span><text:span text:style-name="T57">-0.7674345 <text:s/>-0.29920656 -0.48140874 -0.61986531 <text:s/>4.84708543]]</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -18244,7 +18284,7 @@
    <draw:page draw:name="page28" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="25.4cm" svg:height="15.875cm" svg:x="1.3cm" svg:y="4.128cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABLAAAALuCAYAAAC+de9yAAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3XmYXVd95vvvns9U86h5liwbg7HxhDEGG+wA
        4QIhdjp0J3ChQzokpDvJTUhfkgYSbi4JTTo3N9AQnoaEDgHShClhNJjBgA0emGzZkjXXPE9n
@@ -19786,7 +19826,7 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">We can add more more parameters by another layer of nodes/neurons</text:span></text:p>
+        <text:p><text:span text:style-name="T40">We can add more more parameters by another layer of nodes/neurons</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -19809,40 +19849,40 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T42">Hidden layers</text:span><text:span text:style-name="T43"> sit between the input and output</text:span></text:p>
+        <text:p><text:span text:style-name="T39">Hidden layers</text:span><text:span text:style-name="T40"> sit between the input and output</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T43">For hidden layer of dimension k:</text:span></text:p>
+        <text:p><text:span text:style-name="T40">For hidden layer of dimension k:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Inputs: </text:span><text:span text:style-name="T61">x</text:span><text:span text:style-name="T62"> ∊</text:span><text:span text:style-name="T63"> ℝ</text:span><text:span text:style-name="T64">n</text:span></text:p>
+          <text:p><text:span text:style-name="T40">Inputs: </text:span><text:span text:style-name="T58">x</text:span><text:span text:style-name="T59"> ∊</text:span><text:span text:style-name="T60"> ℝ</text:span><text:span text:style-name="T61">n</text:span></text:p>
          </text:list-item>
          <text:list-item>
           <text:p>Outputs: <text:span text:style-name="T13">z</text:span><text:span text:style-name="T10"> ∊</text:span><text:span text:style-name="T14"> ℝ</text:span><text:span text:style-name="T15">m</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T13">A</text:span> is an m <text:span text:style-name="T49">× k matrix</text:span></text:p>
+          <text:p><text:span text:style-name="T13">A</text:span> is an m <text:span text:style-name="T46">× k matrix</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T50">B</text:span><text:span text:style-name="T49"> is an k × n matrix</text:span></text:p>
+          <text:p><text:span text:style-name="T47">B</text:span><text:span text:style-name="T46"> is an k × n matrix</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T49">The product </text:span><text:span text:style-name="T50">AB</text:span><text:span text:style-name="T49"> is m × n, as we had before</text:span></text:p>
+          <text:p><text:span text:style-name="T46">The product </text:span><text:span text:style-name="T47">AB</text:span><text:span text:style-name="T46"> is m × n, as we had before</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T65">Universal approximation theorem</text:span><text:span text:style-name="T66">: </text:span><text:span text:style-name="T63">single layer network can represent any continuous function</text:span></text:p>
+        <text:p><text:span text:style-name="T62">Universal approximation theorem</text:span><text:span text:style-name="T63">: </text:span><text:span text:style-name="T60">single layer network can represent any continuous function</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T67">We </text:span><text:span text:style-name="T68">transform the input in two steps:</text:span></text:p>
-        <text:p><text:span text:style-name="T43"/></text:p>
+        <text:p><text:span text:style-name="T64">We transform the input in two steps:</text:span></text:p>
+        <text:p><text:span text:style-name="T40"/></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="3.71cm" svg:height="2.086cm" svg:x="11.317cm" svg:y="16.206cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAXAAAADPBAMAAAAe3JcYAAAAMFBMVEX///8AAADMzMyIiIhU
        VFRmZmaYmJju7u52dnbc3NwiIiK6uroQEBAyMjJERESqqqoDmRUVAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAR/klEQVR4Ae1dXYhkRxW+M7s7vT07O7uVbJJ1nJhugqz6NA2CID5MKz4IgtMB
@@ -19958,11 +19998,11 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Graphically this appears as:</text:span></text:p>
-        <text:p><text:span text:style-name="T63"/></text:p>
+        <text:p><text:span text:style-name="T40">Graphically this appears as:</text:span></text:p>
+        <text:p><text:span text:style-name="T60"/></text:p>
         <text:list>
          <text:list-header>
-          <text:p><text:span text:style-name="T43"/></text:p>
+          <text:p><text:span text:style-name="T40"/></text:p>
          </text:list-header>
         </text:list>
        </text:list-item>
@@ -19970,7 +20010,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="22.86cm" svg:height="15.723cm" svg:x="2.294cm" svg:y="4.48cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABLAAAAM5CAYAAAAXOchRAAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3Xl43mWZ//33d7u37GnSdIWWylqqIKCiYkFW
        FWHEAjOOqAc4gw+jg8sxM8zMz2fw5yzM6DjCPOqIiiIKaAGZgtiqAxVklW0KFNpSmi5Jmn2/
@@ -21733,13 +21773,13 @@
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Now we minimize:</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Now we minimize:</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="10.231cm" svg:height="8.669cm" svg:x="7.989cm" svg:y="5.346cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA/cAAANcCAMAAAAtg6/QAAAAOVBMVEX///8AAACYmJhEREQi
        IiKIiIgQEBBmZmZ2dnbu7u7c3NxUVFTMzMwyMjKqqqq6urokJCS/v7+wsLBMbGwKAAAACXBI
        WXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4Ae1dibakIA7terXvM/P/HzuQAAqCsqlY3jqn+1mK
@@ -22340,10 +22380,10 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
         <text:p><text:span text:style-name="T17">We need to do the minimization now for both sets of weights (matricies)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T35">In practice, we do them one at a time, with each seeing the result from its layer</text:span></text:p>
+        <text:p><text:span text:style-name="T32">In practice, we do them one at a time, with each seeing the result from its layer</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T45">This process is also called </text:span><text:span text:style-name="T48">backpropagation</text:span><text:span text:style-name="T45"> in neural networks—we are using the errors at the end to change the weights that came earlier in the network</text:span></text:p>
+          <text:p><text:span text:style-name="T42">This process is also called </text:span><text:span text:style-name="T45">backpropagation</text:span><text:span text:style-name="T42"> in neural networks—we are using the errors at the end to change the weights that came earlier in the network</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -22368,10 +22408,10 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T35">In the evaluation step, we progress though the neural network in a forward direction: input layer → hidden layer → output layer</text:span></text:p>
+        <text:p><text:span text:style-name="T32">In the evaluation step, we progress though the neural network in a forward direction: input layer → hidden layer → output layer</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T32">Backpropagation is the process of taking the errors that we compute at the output layer and moving them backwards to the hidden layer</text:span></text:p>
+        <text:p><text:span text:style-name="T29">Backpropagation is the process of taking the errors that we compute at the output layer and moving them backwards to the hidden layer</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -22394,20 +22434,20 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T35">We can do our gradient descent on </text:span><text:span text:style-name="T34">A</text:span><text:span text:style-name="T35"> and </text:span><text:span text:style-name="T34">B</text:span><text:span text:style-name="T35"> separately now</text:span></text:p>
+        <text:p><text:span text:style-name="T32">We can do our gradient descent on </text:span><text:span text:style-name="T31">A</text:span><text:span text:style-name="T32"> and </text:span><text:span text:style-name="T31">B</text:span><text:span text:style-name="T32"> separately now</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T35">This is the strength of backpropagation and gradient descent vs. some “canned” <text:s/>minimization routine—we are not optimizing the entire system all together</text:span></text:p>
+          <text:p><text:span text:style-name="T32">This is the strength of backpropagation and gradient descent vs. some “canned” <text:s/>minimization routine—we are not optimizing the entire system all together</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T35">Differentiating our error and lots of chain rule gives:</text:span></text:p>
-        <text:p><text:span text:style-name="T35"/></text:p>
-        <text:p><text:span text:style-name="T35"/></text:p>
+        <text:p><text:span text:style-name="T32">Differentiating our error and lots of chain rule gives:</text:span></text:p>
+        <text:p><text:span text:style-name="T32"/></text:p>
+        <text:p><text:span text:style-name="T32"/></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T35">With </text:span></text:p>
+          <text:p><text:span text:style-name="T32">With </text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -22415,7 +22455,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="10.524cm" svg:height="2.086cm" svg:x="8.586cm" svg:y="9.51cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABBQAAADPBAMAAAC3h59QAAAAMFBMVEX///8AAADMzMyYmJiq
        qqoQEBAiIiJ2dnbu7u4yMjK6urqIiIhERERmZmbc3NxUVFR1NAwWAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAAgAElEQVR4Ae09a4hkWXm3n1PT0109Z3erZyfOarVZIRgjUz6IoGiXq/mhLJmr
@@ -22620,7 +22660,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
 \end{aling*}§png§600§FALSE§</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="10.342cm" svg:height="0.838cm" svg:x="9.712cm" svg:y="13.734cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABAIAAABTBAMAAAD3k7jHAAAAMFBMVEX///8AAADMzMyIiIhU
        VFRmZmaYmJju7u52dnbc3NwiIiK6uroQEBAyMjJERESqqqoDmRUVAAAACXBIWXMAAA7EAAAO
        xAGVKw4bAAASRUlEQVR4Ae0dW4xkRfVOz6O359VbsCs49q49GENEkG1B9EOT7WRRY4huEwEj
@@ -22719,12 +22759,12 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
     </draw:frame>
     <draw:frame draw:style-name="gr13" draw:text-style-name="P12" draw:layer="layout" svg:width="7.62cm" svg:height="4.724cm" svg:x="20.066cm" svg:y="9.398cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T8">Note: this is a single dot product, the combination of vectors on the left are multiplied element-</text:span><text:span text:style-name="T8">by-element (the Hadamard product)</text:span></text:p>
+      <text:p><text:span text:style-name="T8">Note: this is a single dot product, the combination of vectors on the left are multiplied element-by-element (the Hadamard product)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr14" draw:text-style-name="P12" xml:id="id1" draw:id="id1" draw:layer="layout" svg:width="8.11cm" svg:height="2.807cm" svg:x="19.322cm" svg:y="16.002cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T8">This approximation seems to be commonly made and supposedly doesn’t affect convergence </text:span><text:span text:style-name="T8">much</text:span></text:p>
+      <text:p><text:span text:style-name="T8">This approximation seems to be commonly made and supposedly doesn’t affect convergence much</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:connector draw:style-name="gr15" draw:text-style-name="P8" draw:layer="layout" draw:type="curve" draw:line-skew="-0.389cm" svg:x1="19.322cm" svg:y1="17.405cm" svg:x2="17.795cm" svg:y2="14.859cm" draw:start-shape="id1" draw:start-glue-point="3" svg:d="M19322 17405c-2103 0-1340-2546-1527-2546" svg:viewBox="0 0 1528 2547">
@@ -22748,16 +22788,16 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Usually only a single hidden layer is needed</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Usually only a single hidden layer is needed</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T43">n &gt; k &gt; m should be reasonable</text:span></text:p>
+        <text:p><text:span text:style-name="T40">n &gt; k &gt; m should be reasonable</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Interactive exploration of hidden layers:</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Interactive exploration of hidden layers:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43"><text:a xlink:href="http://playground.tensorflow.org/" xlink:type="simple">http://playground.tensorflow.org</text:a></text:span><text:span text:style-name="T43"><text:s/></text:span></text:p>
+          <text:p><text:span text:style-name="T40"><text:a xlink:href="http://playground.tensorflow.org/" xlink:type="simple">http://playground.tensorflow.org</text:a></text:span><text:span text:style-name="T40"><text:s/></text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -22782,42 +22822,42 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">We’ll try to recognize a digit (0 – 9) from an image of a handwritten digit.</text:span></text:p>
+        <text:p><text:span text:style-name="T40">We’ll try to recognize a digit (0 – 9) from an image of a handwritten digit.</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">MNIST dataset (</text:span><text:span text:style-name="T43"><text:a xlink:href="http://yann.lecun.com/exdb/mnist/" xlink:type="simple">http://yann.lecun.com/exdb/mnist/</text:a></text:span><text:span text:style-name="T43">)</text:span></text:p>
+          <text:p><text:span text:style-name="T40">MNIST dataset (</text:span><text:span text:style-name="T40"><text:a xlink:href="http://yann.lecun.com/exdb/mnist/" xlink:type="simple">http://yann.lecun.com/exdb/mnist/</text:a></text:span><text:span text:style-name="T40">)</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">Popular dataset for testing out maching learning techniques</text:span></text:p>
+            <text:p><text:span text:style-name="T40">Popular dataset for testing out maching learning techniques</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">Training set is 60,000 images </text:span></text:p>
+            <text:p><text:span text:style-name="T40">Training set is 60,000 images </text:span></text:p>
             <text:list>
              <text:list-item>
-              <text:p><text:span text:style-name="T43">Approximately 250 different writers</text:span></text:p>
+              <text:p><text:span text:style-name="T40">Approximately 250 different writers</text:span></text:p>
              </text:list-item>
             </text:list>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">Test set is 10,000 images</text:span></text:p>
+            <text:p><text:span text:style-name="T40">Test set is 10,000 images</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">Correct answer is know for both sets so we can test our performance</text:span></text:p>
+            <text:p><text:span text:style-name="T40">Correct answer is know for both sets so we can test our performance</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Image details:</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Image details:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">28 </text:span><text:span text:style-name="T69">× </text:span><text:span text:style-name="T43">28 pixels, grayscale (0 – 255 intensity)</text:span></text:p>
+          <text:p><text:span text:style-name="T40">28 </text:span><text:span text:style-name="T65">× </text:span><text:span text:style-name="T40">28 pixels, grayscale (0 – 255 intensity)</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T43">The best learning algorithms can get accuracy &gt; 99%</text:span></text:p>
+        <text:p><text:span text:style-name="T40">The best learning algorithms can get accuracy &gt; 99%</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -22840,24 +22880,24 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Neural network characteristics:</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Neural network characteristics:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Input layer will be 784 nodes</text:span></text:p>
+          <text:p><text:span text:style-name="T40">Input layer will be 784 nodes</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">One for each pixel in the input image</text:span></text:p>
+            <text:p><text:span text:style-name="T40">One for each pixel in the input image</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Output layer will be 10 nodes</text:span></text:p>
+          <text:p><text:span text:style-name="T40">Output layer will be 10 nodes</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">An array with an entry for each possible digit</text:span></text:p>
+            <text:p><text:span text:style-name="T40">An array with an entry for each possible digit</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">3” would be represented as: <text:s text:c="9"/></text:span><text:span text:style-name="T58">[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]</text:span></text:p>
+            <text:p><text:span text:style-name="T40">“</text:span><text:span text:style-name="T40">3” would be represented as: <text:s text:c="9"/></text:span><text:span text:style-name="T55">[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
@@ -22881,7 +22921,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="10.795cm" svg:height="10.693cm" svg:x="16.694cm" svg:y="6.147cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAsQAAAK+CAYAAACl7AgkAAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzt3X2MlfWZx+HvlDdhQEcUFwprrQjGsAXEYlUW
        RWMRNFYF9w8bm4K2bm3MSm13NW5HWXE3ZouuNLiJaygaU013UXFtG1MMTd8Q3IrV7BC1QUWx
@@ -23096,7 +23136,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
     </draw:frame>
     <draw:frame draw:style-name="gr16" draw:text-style-name="P17" draw:layer="layout" svg:width="9.652cm" svg:height="0.89cm" svg:x="17.526cm" svg:y="17.018cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T70">First digit MNIST in the training set</text:span></text:p>
+      <text:p><text:span text:style-name="T66">First digit MNIST in the training set</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -23117,31 +23157,31 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Default configuration:</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Default configuration:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">The full training set (60000 images)</text:span></text:p>
+          <text:p><text:span text:style-name="T40">The full training set (60000 images)</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Hidden layer of 100 nodes</text:span></text:p>
+          <text:p><text:span text:style-name="T40">Hidden layer of 100 nodes</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">5 epochs of training</text:span></text:p>
+          <text:p><text:span text:style-name="T40">5 epochs of training</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Learning rate of 0.1</text:span></text:p>
+          <text:p><text:span text:style-name="T40">Learning rate of 0.1</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T43">We achieve 95 – 96% accuracy</text:span></text:p>
+        <text:p><text:span text:style-name="T40">We achieve 95 – 96% accuracy</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P14" draw:layer="layout" svg:width="11.684cm" svg:height="0.751cm" svg:x="0.254cm" svg:y="20.067cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P14" draw:layer="layout" svg:width="11.684cm" svg:height="0.818cm" svg:x="0.254cm" svg:y="20.067cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T46">code: char_recognition.py</text:span></text:p>
+      <text:p><text:span text:style-name="T43">code: char_recognition.py</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -23159,7 +23199,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.43cm" svg:height="12.319cm" svg:x="1.524cm" svg:y="5.461cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlMAAAKBCAAAAABW3HEQAAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8A
        AAAJcEhZcwAAFxEAABcRAcom8z8AAAAHdElNRQfhDAIHJgi2f1qeAAAAEGNhTnYAAAPAAAAC
@@ -23335,7 +23375,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:image>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.43cm" svg:height="12.319cm" svg:x="15.24cm" svg:y="5.461cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlMAAAKBCAAAAABW3HEQAAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8A
        AAAJcEhZcwAAFxEAABcRAcom8z8AAAAHdElNRQfhDAIHJgi2f1qeAAAAEGNhTnYAAAPAAAAC
@@ -23517,7 +23557,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.43cm" svg:height="12.319cm" svg:x="1.524cm" svg:y="5.461cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlMAAAKBCAAAAABW3HEQAAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8A
        AAAJcEhZcwAAFxEAABcRAcom8z8AAAAHdElNRQfhDAIHJgi2f1qeAAAAEGNhTnYAAAPAAAAC
@@ -23692,7 +23732,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:image>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.176cm" svg:height="12.04cm" svg:x="15.24cm" svg:y="5.461cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlMAAAKBCAAAAABW3HEQAAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8A
        AAAJcEhZcwAAFxEAABcRAcom8z8AAAAHdElNRQfhDAIHJgi2f1qeAAAAEGNhTnYAAAPAAAAC
@@ -23888,7 +23928,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.43cm" svg:height="12.319cm" svg:x="1.524cm" svg:y="5.461cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlMAAAKBCAAAAABW3HEQAAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8A
        AAAJcEhZcwAAFxEAABcRAcom8z8AAAAHdElNRQfhDAIHJgi2f1qeAAAAEGNhTnYAAAPAAAAC
@@ -24070,7 +24110,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:image>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="11.43cm" svg:height="12.319cm" svg:x="15.24cm" svg:y="5.461cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlMAAAKBCAAAAABW3HEQAAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8A
        AAAJcEhZcwAAFxEAABcRAcom8z8AAAAHdElNRQfhDAIHJgi2f1qeAAAAEGNhTnYAAAPAAAAC
@@ -24266,7 +24306,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="13.716cm" svg:height="10.719cm" svg:x="0.254cm" svg:y="7.412cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAz8AAAKKCAYAAAATJeUxAAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3XuQ1/V97/HXirByR0QlhiAJ3jGgpCViVIhB
        6xGvCHpS04MazRDHVEMy6pnoaSqmpSpGGnPx1EtQo+kRUQKkaQSjeLdKIxXjJSRCMBpRQbkt
@@ -24553,7 +24593,7 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:image>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="13.716cm" svg:height="10.389cm" svg:x="14.097cm" svg:y="7.577cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA1oAAAKKCAYAAAAk6yoFAAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3X9MVWeex/EPq8BVEBTxB5T4A5BuFTHWyBQp
        VbuxtVKipUZjtzsWxs62LqEMJmq69ccoXU0rJnR0TDM2tZq16wZQV22cDjKi4lz8uaLY+rOg
@@ -24956,10 +24996,10 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Weights (matrix elements of </text:span><text:span text:style-name="T55">A</text:span><text:span text:style-name="T43"> and </text:span><text:span text:style-name="T55">B</text:span><text:span text:style-name="T43">) seem symmetric about 0</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Weights (matrix elements of </text:span><text:span text:style-name="T52">A</text:span><text:span text:style-name="T40"> and </text:span><text:span text:style-name="T52">B</text:span><text:span text:style-name="T40">) seem symmetric about 0</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Interestingly, with more training, the width of the distribution seems to grow</text:span></text:p>
+          <text:p><text:span text:style-name="T40">Interestingly, with more training, the width of the distribution seems to grow</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -24984,13 +25024,13 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">When we use the full training set (60000 images) the number of epochs (passes through the training data) doesn’t seem to matter much</text:span></text:p>
+        <text:p><text:span text:style-name="T40">When we use the full training set (60000 images) the number of epochs (passes through the training data) doesn’t seem to matter much</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="17.78cm" svg:height="13.335cm" svg:x="5.08cm" svg:y="6.35cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3Xl8VdW9///3yTwDIWESQgYmmSEKBAhgrbba
        KlpErAoyhepPxYGLvX4V21ra61ChVOmtzIg4QalF6AWlZQhDCCFAMAxCRsKUQELm8eT8/og5
@@ -25958,13 +25998,13 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">No surprise: the larger the training set, the better we do</text:span></text:p>
+        <text:p><text:span text:style-name="T40">No surprise: the larger the training set, the better we do</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="17.78cm" svg:height="13.335cm" svg:x="5.08cm" svg:y="6.35cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3Xl4lOX5/v9zsu9ASNgJSyAqAcKiRRowRMEq
        P5FWpKWICAhWK1IKQm0R6wdQW7+KImDFKuCCVEGLgIoIZREwQAgQDMoSIAFkX0K2yTKZ3x8x
@@ -26649,13 +26689,13 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">Also not unexpected: the larger the hidden layer the better we do</text:span></text:p>
+        <text:p><text:span text:style-name="T40">Also not unexpected: the larger the hidden layer the better we do</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="17.78cm" svg:height="13.335cm" svg:x="5.08cm" svg:y="6.35cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3Xl8VPW9//H3TNaZbGRDliyQBKQguxtEDPTW
        29pbxKv11iqiKFp5lPb602prq61V1La3tQ+vosW2oLdabUVL3YqKFZQlLEZEQLEkIQsEyE62
@@ -27309,13 +27349,13 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">A smaller learning rate seems to do better</text:span></text:p>
+        <text:p><text:span text:style-name="T40">A smaller learning rate seems to do better</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P8" draw:layer="layout" svg:width="17.78cm" svg:height="13.335cm" svg:x="5.08cm" svg:y="6.35cm">
-     <draw:image xlink:href="">
+     <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8AAAALQCAYAAABfdxm0AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAXEQAAFxEByibzPwAAIABJREFUeJzs3XlYlXX+//HXOey7IiAK4oKigriAZa5kuaRl
        lujUtFiZTjWaGU1NTdl3pvw1NU2UpbarTeM4lZq55VaJW7ihYqiopCK44YYssp/fH45HSUxI
@@ -28030,7 +28070,34 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page47" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page47" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr7" draw:layer="layout" svg:width="25.199cm" svg:height="1.957cm" svg:x="1.4cm" svg:y="0.537cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>CONVOLUTIONAL NN</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr8" draw:text-style-name="P13" draw:layer="layout" svg:width="26.924cm" svg:height="16.256cm" svg:x="0.508cm" svg:y="3.556cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L4">
+       <text:list-item>
+        <text:p><text:span text:style-name="T40">A convolutional-neural-network is a subclass of neural-networks which have at least one convolution layer. They are great for capturing local information (e.g. neighbor pixels in an image or surrounding words in a text) as well as reducing the complexity of the model (faster training, needs fewer samples, reduces the chance of overfitting).</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T40">The main difference between CNNs and multilayer perceptron (MLPs) is that MLPs require vectors as inputs and when we have to deal with images, we flatten he image pixels into a 1D vector and then pass it. What we don’t realize is that during flattening the image, we lose some valuable information about the image which later would have been useful in classifying the inputs. On the other hand, CNNs do not require vectors as inputs, rather they accept whole matrices. Hence why, we can input a picture, because after all the image is just a 2D array of its RGB values and the fact that it inputs a whole matrix can in itself become the prime reason to choose CNNs over MLPs while having image inputs.</text:span></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="47" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P10" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page48" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr7" draw:layer="layout" svg:width="25.199cm" svg:height="1.957cm" svg:x="1.4cm" svg:y="0.537cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
@@ -28041,21 +28108,21 @@ z_l &amp;= g \left ( \sum_{s=1}^k A_{ls} \tilde{z}_s \right )
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-item>
-        <text:p><text:span text:style-name="T43">A deep neural network is one with many hidden layers (certainly &gt; 1 </text:span><text:span text:style-name="T43">hidden)</text:span></text:p>
+        <text:p><text:span text:style-name="T40">A deep neural network is one with many hidden layers (certainly &gt; 1 hidden)</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T43">Very nice discussion: </text:span><text:span text:style-name="T43"><text:a xlink:href="https://stats.stackexchange.com/questions/182734/what-is-the-difference-between-a-neural-network-and-a-deep-neural-network" xlink:type="simple">https://stats.stackexchange.com/questions/182734/what-is-the-difference-between-a-neural-network-and-a-deep-neural-network</text:a></text:span><text:span text:style-name="T43"><text:s/></text:span></text:p>
+          <text:p><text:span text:style-name="T40">Very nice discussion: </text:span><text:span text:style-name="T40"><text:a xlink:href="https://stats.stackexchange.com/questions/182734/what-is-the-difference-between-a-neural-network-and-a-deep-neural-network" xlink:type="simple">https://stats.stackexchange.com/questions/182734/what-is-the-difference-between-a-neural-network-and-a-deep-neural-network</text:a></text:span><text:span text:style-name="T40"><text:s/></text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T43">There are other learning algorithms aside from neural networks—</text:span><text:span text:style-name="T43">there’s a link to a text on the class website</text:span></text:p>
+        <text:p><text:span text:style-name="T40">There are other learning algorithms aside from neural networks—there’s a link to a text on the class website</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="47" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="48" presentation:class="page"/>
      <draw:frame presentation:style-name="pr6" draw:text-style-name="P10" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
