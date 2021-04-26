@@ -80,7 +80,7 @@ Beulah,F,573
 Sallie,F,571
 Ruby,F,540
 Gladys,F,525
-Georgia,F,512
+Georgia,F,513
 Nancy,F,512
 Flora,F,510
 Emily,F,509

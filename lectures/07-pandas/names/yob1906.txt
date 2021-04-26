@@ -150,8 +150,8 @@ Iva,F,400
 Rebecca,F,397
 Geneva,F,396
 Irma,F,391
-Maria,F,389
 Juanita,F,388
+Maria,F,388
 Etta,F,384
 Sophie,F,384
 Naomi,F,372
@@ -2218,8 +2218,8 @@ Zell,F,5
 Zelpha,F,5
 Zeola,F,5
 Zetha,F,5
-John,M,8265
-William,M,6567
+John,M,8264
+William,M,6566
 James,M,5908
 George,M,4201
 Robert,M,3635
@@ -2490,12 +2490,12 @@ Troy,M,54
 Clark,M,53
 Cleveland,M,53
 Silas,M,53
-Timothy,M,53
 Cleo,M,52
 Edmond,M,52
 Harley,M,52
 Myron,M,52
 Ruben,M,52
+Timothy,M,52
 Dock,M,51
 Freddie,M,51
 Abe,M,50

@@ -1,7 +1,7 @@
 Mary,F,13811
 Anna,F,5860
 Helen,F,4392
-Margaret,F,4051
+Margaret,F,4050
 Ruth,F,3905
 Ethel,F,3502
 Elizabeth,F,3471
@@ -1151,6 +1151,7 @@ Eleonora,F,9
 Eleonore,F,9
 Elina,F,9
 Ellar,F,9
+Ellis,F,9
 Elvera,F,9
 Elza,F,9
 Eugene,F,9
@@ -1236,7 +1237,6 @@ Elba,F,8
 Elenor,F,8
 Elfreda,F,8
 Eller,F,8
-Ellis,F,8
 Ermine,F,8
 Ether,F,8
 Evelyne,F,8
@@ -1825,7 +1825,7 @@ Zeda,F,5
 Zorah,F,5
 John,M,8138
 William,M,7747
-James,M,5207
+James,M,5206
 George,M,4286
 Charles,M,3639
 Joseph,M,3051

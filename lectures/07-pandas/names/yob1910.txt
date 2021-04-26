@@ -26,7 +26,7 @@ Thelma,F,2976
 Gertrude,F,2932
 Ruby,F,2893
 Martha,F,2858
-Virginia,F,2854
+Virginia,F,2855
 Josephine,F,2801
 Lucille,F,2692
 Clara,F,2665
@@ -52,10 +52,10 @@ Nellie,F,1928
 Ann,F,1842
 Laura,F,1834
 Lillie,F,1824
-Eleanor,F,1797
+Eleanor,F,1798
 Willie,F,1796
 Katherine,F,1752
-Bernice,F,1720
+Bernice,F,1721
 Marion,F,1703
 Mattie,F,1687
 Alma,F,1630
@@ -73,7 +73,7 @@ Stella,F,1319
 Hattie,F,1314
 Blanche,F,1288
 Lucy,F,1283
-Lois,F,1272
+Lois,F,1271
 Jean,F,1246
 Fannie,F,1237
 Leona,F,1220
@@ -1322,6 +1322,7 @@ Precious,F,13
 Raye,F,13
 Rene,F,13
 Romayne,F,13
+Rosaria,F,13
 Sam,F,13
 Santos,F,13
 Shellie,F,13
@@ -1408,7 +1409,6 @@ Omega,F,12
 Oralee,F,12
 Rella,F,12
 Rochelle,F,12
-Rosaria,F,12
 Roxanna,F,12
 Stasia,F,12
 Thalia,F,12
@@ -2789,12 +2789,12 @@ Zenna,F,5
 Zillah,F,5
 Zonia,F,5
 John,M,11450
-James,M,9195
+James,M,9194
 William,M,8844
 Robert,M,5609
 George,M,5441
 Joseph,M,5228
-Charles,M,4785
+Charles,M,4784
 Frank,M,3768
 Edward,M,3408
 Henry,M,2899
@@ -2815,7 +2815,7 @@ Louis,M,1569
 Joe,M,1553
 Carl,M,1339
 Howard,M,1310
-Ralph,M,1279
+Ralph,M,1278
 Roy,M,1267
 David,M,1258
 Ernest,M,1167

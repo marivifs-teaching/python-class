@@ -4,7 +4,7 @@ Dorothy,F,18782
 Margaret,F,17763
 Ruth,F,15839
 Anna,F,11865
-Mildred,F,11649
+Mildred,F,11650
 Elizabeth,F,11367
 Frances,F,9677
 Marie,F,8829
@@ -39,10 +39,10 @@ Beatrice,F,4232
 Emma,F,3972
 Ann,F,3888
 Bertha,F,3859
-Julia,F,3813
+Julia,F,3814
 Bernice,F,3730
 Agnes,F,3721
-Marjorie,F,3711
+Marjorie,F,3712
 Elsie,F,3683
 Sarah,F,3679
 Katherine,F,3652
@@ -85,15 +85,15 @@ Marguerite,F,2050
 Mae,F,2049
 Ellen,F,2039
 Rita,F,2010
-Charlotte,F,2008
+Charlotte,F,2007
 Opal,F,1893
 Marian,F,1862
 Carrie,F,1798
+Velma,F,1795
 Theresa,F,1794
-Velma,F,1794
 Juanita,F,1792
 Wilma,F,1787
-Beulah,F,1776
+Beulah,F,1775
 Hattie,F,1678
 Emily,F,1650
 Fannie,F,1616
@@ -148,7 +148,7 @@ Erma,F,993
 Caroline,F,989
 Miriam,F,981
 Jeanette,F,977
-Rachel,F,974
+Rachel,F,975
 Lorraine,F,969
 Rosie,F,957
 Nettie,F,936
@@ -195,8 +195,8 @@ Freda,F,689
 Angelina,F,686
 Cecelia,F,679
 Cleo,F,672
+Eloise,F,663
 Faye,F,663
-Eloise,F,662
 Susan,F,661
 Patricia,F,656
 Lela,F,647
@@ -215,8 +215,8 @@ Selma,F,587
 Rosalie,F,584
 Etta,F,581
 Joan,F,578
-Claire,F,571
 Ola,F,571
+Claire,F,570
 Jewell,F,570
 Elaine,F,568
 Leola,F,567
@@ -322,7 +322,7 @@ Lora,F,270
 Alyce,F,267
 Augusta,F,266
 Rhoda,F,266
-Odessa,F,263
+Odessa,F,264
 Arline,F,260
 Leila,F,259
 Bettie,F,256
@@ -1112,6 +1112,7 @@ Lucienne,F,30
 Madelon,F,30
 Madolyn,F,30
 Monnie,F,30
+Paralee,F,30
 Richard,F,30
 Sigrid,F,30
 Veva,F,30
@@ -1138,7 +1139,6 @@ Margueritte,F,29
 Margurite,F,29
 Marylou,F,29
 Nevada,F,29
-Paralee,F,29
 Prudence,F,29
 Rosaria,F,29
 Tempie,F,29
@@ -4209,9 +4209,9 @@ William,M,29753
 James,M,26263
 Robert,M,21188
 Joseph,M,18829
-George,M,17603
+George,M,17602
 Charles,M,16937
-Edward,M,12318
+Edward,M,12319
 Frank,M,12002
 Walter,M,8962
 Thomas,M,8850
@@ -4224,9 +4224,9 @@ Richard,M,6669
 Arthur,M,6641
 Harry,M,6588
 Louis,M,5495
-Ralph,M,5010
+Ralph,M,5009
 Clarence,M,4909
-Donald,M,4836
+Donald,M,4835
 Carl,M,4807
 Willie,M,4709
 Howard,M,4490
@@ -4244,7 +4244,7 @@ Anthony,M,3695
 Ernest,M,3632
 Stanley,M,3559
 Michael,M,3362
-Alfred,M,3346
+Alfred,M,3347
 Herbert,M,3253
 Eugene,M,3211
 Andrew,M,2965
@@ -4311,8 +4311,8 @@ Gilbert,M,1060
 Allen,M,1049
 Julius,M,1049
 Virgil,M,1048
-Warren,M,1034
-Eddie,M,1009
+Warren,M,1033
+Eddie,M,1010
 Ben,M,1005
 Wayne,M,1001
 Steve,M,998
@@ -4432,7 +4432,7 @@ Owen,M,356
 Gene,M,352
 Wendell,M,350
 Fredrick,M,345
-Murray,M,340
+Murray,M,339
 Perry,M,338
 Dean,M,337
 Hyman,M,336

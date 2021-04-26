@@ -38,8 +38,8 @@ Eva,F,1727
 Elsie,F,1720
 Sarah,F,1710
 Agnes,F,1676
-Josephine,F,1566
 Nellie,F,1566
+Josephine,F,1565
 Laura,F,1559
 Lillie,F,1533
 Ella,F,1525
@@ -2060,14 +2060,14 @@ Clarence,M,1292
 Fred,M,1286
 Harold,M,1077
 Paul,M,1067
-Raymond,M,1065
+Raymond,M,1064
 Roy,M,1002
 Joe,M,955
 Carl,M,952
 Louis,M,912
 Richard,M,908
 Earl,M,877
-Ralph,M,867
+Ralph,M,866
 Ernest,M,790
 Charlie,M,761
 David,M,761

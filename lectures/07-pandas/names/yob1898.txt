@@ -70,7 +70,7 @@ Katherine,F,914
 Pauline,F,900
 Willie,F,878
 Maggie,F,876
-Vera,F,875
+Vera,F,876
 Nora,F,868
 Rosa,F,841
 Evelyn,F,836
@@ -242,10 +242,10 @@ Lelia,F,149
 Adelaide,F,148
 Rhoda,F,148
 Rita,F,146
+Harriett,F,144
 Jeannette,F,144
 Roberta,F,144
 Hallie,F,143
-Harriett,F,143
 Myra,F,143
 Sue,F,143
 Olivia,F,141
@@ -1998,8 +1998,8 @@ Harold,M,963
 Raymond,M,929
 Carl,M,919
 Earl,M,883
-Richard,M,872
-Louis,M,862
+Richard,M,871
+Louis,M,861
 Ernest,M,839
 Joe,M,827
 David,M,815
@@ -2502,7 +2502,6 @@ Cicero,M,16
 Cleve,M,16
 Gust,M,16
 Haywood,M,16
-Justin,M,16
 Lige,M,16
 Linwood,M,16
 Margaret,M,16
@@ -2514,7 +2513,6 @@ Theo,M,16
 Theron,M,16
 Thurman,M,16
 Truman,M,16
-Unknown,M,16
 West,M,16
 Wilburn,M,16
 Alvie,M,15
@@ -2529,6 +2527,7 @@ Fritz,M,15
 Grace,M,15
 Jewell,M,15
 June,M,15
+Justin,M,15
 Lafayette,M,15
 Lawson,M,15
 Lillian,M,15
@@ -2543,6 +2542,7 @@ Ruth,M,15
 Shirley,M,15
 Smith,M,15
 Turner,M,15
+Unknown,M,15
 Walton,M,15
 Wilford,M,15
 Alan,M,14

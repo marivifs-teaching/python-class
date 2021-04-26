@@ -2106,8 +2106,8 @@ Orville,M,94
 Franklin,M,92
 Mark,M,92
 Nathaniel,M,92
-Matthew,M,90
 Roosevelt,M,90
+Matthew,M,89
 Irvin,M,88
 Nicholas,M,88
 Perry,M,87

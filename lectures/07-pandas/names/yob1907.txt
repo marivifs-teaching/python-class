@@ -102,7 +102,7 @@ Hilda,F,702
 Inez,F,680
 Genevieve,F,678
 Nora,F,676
-Charlotte,F,666
+Charlotte,F,667
 Lola,F,639
 Alberta,F,627
 Flora,F,617
@@ -2425,7 +2425,7 @@ Louis,M,1111
 Jack,M,1019
 Carl,M,1018
 Earl,M,1006
-Ralph,M,998
+Ralph,M,997
 Ernest,M,978
 David,M,945
 Samuel,M,892
@@ -2445,7 +2445,7 @@ Elmer,M,616
 Anthony,M,593
 Kenneth,M,589
 Michael,M,586
-Herman,M,562
+Herman,M,561
 Leroy,M,550
 Leonard,M,547
 Daniel,M,528

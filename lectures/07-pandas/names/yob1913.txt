@@ -44,7 +44,7 @@ Sarah,F,3178
 Doris,F,3049
 Bernice,F,3036
 Ann,F,2998
-Bessie,F,2951
+Bessie,F,2952
 Marjorie,F,2922
 Ida,F,2916
 Eva,F,2891
@@ -57,7 +57,7 @@ Mabel,F,2741
 Anne,F,2684
 Nellie,F,2645
 Lois,F,2561
-Jean,F,2544
+Jean,F,2545
 Jessie,F,2475
 Laura,F,2454
 Minnie,F,2332
@@ -74,7 +74,7 @@ Lena,F,1973
 Leona,F,1911
 Mattie,F,1868
 Blanche,F,1856
-Lucy,F,1855
+Lucy,F,1856
 Marguerite,F,1822
 Mae,F,1814
 Jennie,F,1809
@@ -82,7 +82,7 @@ Jane,F,1759
 Violet,F,1751
 Vivian,F,1727
 Genevieve,F,1684
-Beulah,F,1640
+Beulah,F,1641
 Opal,F,1629
 Charlotte,F,1603
 Ellen,F,1579
@@ -96,7 +96,7 @@ Juanita,F,1443
 Hattie,F,1434
 Theresa,F,1403
 Inez,F,1395
-Emily,F,1387
+Emily,F,1386
 Georgia,F,1382
 Rosa,F,1366
 Nancy,F,1290
@@ -288,7 +288,7 @@ Belle,F,273
 Callie,F,273
 Gracie,F,273
 Joyce,F,273
-Donna,F,267
+Donna,F,266
 Madge,F,264
 Harriett,F,260
 Lorena,F,259
@@ -3707,8 +3707,8 @@ Zina,F,5
 Zura,F,5
 John,M,29329
 William,M,23538
-James,M,20831
-Robert,M,15683
+James,M,20832
+Robert,M,15684
 Joseph,M,14471
 George,M,13874
 Charles,M,13190
@@ -3722,7 +3722,7 @@ Paul,M,5966
 Harry,M,5458
 Albert,M,5449
 Arthur,M,5422
-Raymond,M,5311
+Raymond,M,5310
 Richard,M,5107
 Louis,M,4258
 Clarence,M,4046
@@ -3753,7 +3753,7 @@ Elmer,M,2323
 Leonard,M,2276
 Andrew,M,2222
 Leo,M,2031
-Frederick,M,1997
+Frederick,M,1996
 Russell,M,1946
 Peter,M,1934
 Bernard,M,1916
@@ -3828,7 +3828,7 @@ Orville,M,676
 Steve,M,661
 Wilson,M,659
 Horace,M,657
-Oliver,M,645
+Oliver,M,644
 Manuel,M,624
 Wallace,M,621
 Nathan,M,615

@@ -157,7 +157,7 @@ Essie,F,525
 Ollie,F,521
 Ora,F,513
 Sallie,F,509
-Victoria,F,503
+Victoria,F,502
 Addie,F,497
 Lela,F,489
 Olga,F,489

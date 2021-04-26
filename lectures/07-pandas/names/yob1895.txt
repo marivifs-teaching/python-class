@@ -26,7 +26,7 @@ Martha,F,2096
 Pearl,F,1958
 Edith,F,1940
 Myrtle,F,1938
-Frances,F,1834
+Frances,F,1833
 Nellie,F,1833
 Esther,F,1803
 Elsie,F,1795

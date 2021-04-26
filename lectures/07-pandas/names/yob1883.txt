@@ -1397,7 +1397,6 @@ Francisco,M,24
 Isiah,M,24
 Judge,M,24
 Lem,M,24
-Roger,M,24
 Emile,M,23
 Hamilton,M,23
 Malcolm,M,23
@@ -1407,6 +1406,7 @@ Neil,M,23
 Omer,M,23
 Phil,M,23
 Porter,M,23
+Roger,M,23
 Sandy,M,23
 Sim,M,23
 Vern,M,23
@@ -1601,7 +1601,6 @@ Lindsey,M,12
 Mason,M,12
 Miguel,M,12
 Orson,M,12
-Randall,M,12
 Reginald,M,12
 Rush,M,12
 Squire,M,12
@@ -1638,6 +1637,7 @@ Oran,M,11
 Orange,M,11
 Orlando,M,11
 Orrin,M,11
+Randall,M,11
 Rodney,M,11
 Stuart,M,11
 Sydney,M,11

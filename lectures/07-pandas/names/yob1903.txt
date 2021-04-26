@@ -40,7 +40,7 @@ Agnes,F,1616
 Josephine,F,1587
 Sarah,F,1553
 Ruby,F,1538
-Laura,F,1504
+Laura,F,1503
 Viola,F,1495
 Nellie,F,1491
 Lillie,F,1485
@@ -2083,7 +2083,7 @@ Zenith,F,5
 Zillah,F,5
 John,M,7608
 William,M,6311
-James,M,5480
+James,M,5479
 George,M,3961
 Charles,M,3213
 Joseph,M,3121
@@ -2122,7 +2122,7 @@ Leo,M,636
 Alfred,M,557
 Elmer,M,556
 Sam,M,552
-Andrew,M,551
+Andrew,M,550
 Lawrence,M,536
 Eugene,M,478
 Lee,M,477

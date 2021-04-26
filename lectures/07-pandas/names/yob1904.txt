@@ -118,7 +118,7 @@ Eunice,F,502
 Lottie,F,497
 Sylvia,F,497
 Katie,F,494
-Mable,F,486
+Mable,F,485
 Jean,F,483
 Sallie,F,483
 Genevieve,F,481
@@ -2171,7 +2171,7 @@ Robert,M,3414
 Charles,M,3406
 Joseph,M,3291
 Frank,M,2799
-Edward,M,2334
+Edward,M,2335
 Henry,M,2086
 Thomas,M,2057
 Walter,M,1873

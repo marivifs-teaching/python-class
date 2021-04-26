@@ -2109,7 +2109,6 @@ Cloyd,M,19
 Duncan,M,19
 Emerson,M,19
 Emmet,M,19
-Eric,M,19
 Freeman,M,19
 Jean,M,19
 Larry,M,19
@@ -2125,6 +2124,7 @@ Blaine,M,18
 Bryant,M,18
 Carter,M,18
 Elton,M,18
+Eric,M,18
 Ezekiel,M,18
 Garland,M,18
 Ivy,M,18
